@@ -28,6 +28,13 @@
                     "bp": false, 
                     "element_id": 843890771000002, 
                     "enable": true
+                }, 
+                {
+                    "action_type": "SOFT_RESUME_GAME", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 843890771000005, 
+                    "enable": true
                 }
             ], 
             "call_enabled": true, 

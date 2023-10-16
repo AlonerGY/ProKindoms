@@ -8211,6 +8211,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "4d51d20a-4f68-490d-8e4d-ba8bb8c933d5"
                 }, 
@@ -8503,6 +8504,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "47a59b7f-e6d4-4e96-b4e7-14fd4883396d"
                 }, 
@@ -8786,6 +8788,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "81f2abe4-381a-4377-826c-b02659ad94c0"
                 }, 
@@ -9069,6 +9072,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "d089f5b2-85a5-46c9-8260-ae165c60aa09"
                 }
@@ -9506,6 +9510,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "34a19aff-3a43-40f8-b340-0f140a25381e"
                 }, 
@@ -9790,6 +9795,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "b2d67dc5-4655-4fce-b476-c2c0f4abedd5"
                 }, 
@@ -10065,6 +10071,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "bb26e330-8256-4b2c-8976-399608948cd6"
                 }, 
@@ -10340,6 +10347,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "781ed00e-1186-42a7-956e-82aaf6640a08"
                 }, 
@@ -10615,6 +10623,7 @@
                         ]
                     }, 
                     "suspend_picture": 108423, 
+                    "swallow_touches": true, 
                     "type": 1, 
                     "uid": "08455be9-b386-45d5-9226-cda6894594df"
                 }
