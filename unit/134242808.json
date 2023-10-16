@@ -4,9 +4,13 @@
             "variable_dict": {
                 "ROUND_AREA": {
                     "\u9053\u5177\u533a\u57df": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5f53\u524d\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
+                "\u5f53\u524d\u5355\u4f4d": 0, 
                 "\u9053\u5177\u533a\u57df": 0
             }
         }

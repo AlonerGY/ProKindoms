@@ -4,8 +4,8 @@
     "key_order": {
         "+xh2wGfaEe6AxzDQQuhSCK": 13, 
         "-7tr3mZvEe67PTDQQunfyS": 0, 
-        "1K0acWm3Ee68nzDQQunfyQ": 19, 
-        "1MSaD2m3Ee6AMTDQQunfyR": 20, 
+        "1K0acWm3Ee68nzDQQunfyQ": 20, 
+        "1MSaD2m3Ee6AMTDQQunfyR": 21, 
         "BnoH7mccEe6SyjDQQundLj": 9, 
         "C12oIWZ4Ee6K9DDQQunfyS": 7, 
         "IYLZgGZ+Ee6P8TDQQunfyf": 8, 
@@ -15,13 +15,13 @@
         "RPHWMGm5Ee6YLzDQQunfyV": 16, 
         "TQjYoWZ7Ee6LVzDQQunfyT": 6, 
         "d0P6nmdcEe6jbjDQQuhSCJ": 11, 
-        "eSbxsGZ7Ee65JDDQQunfyQ": 17, 
+        "eSbxsGZ7Ee65JDDQQunfyQ": 18, 
         "n6cZQGc1Ee6SlTDQQunfyf": 12, 
         "nL+yz2ZbEe6HgjDQQunfyU": 2, 
         "q5c1HmdCEe6ZFjDQQunfyW": 5, 
         "ruo-D2vUEe6EFzDQQuhSCB": 14, 
         "s8CiYWZaEe6NDjDQQunfyf": 1, 
-        "wOcPwGc1Ee6uUDDQQunfyT": 18
+        "wOcPwGc1Ee6uUDDQQunfyT": 19
     }, 
     "name": "trigger", 
     "sub_trigger": {
@@ -30,6 +30,13 @@
             "items": [
                 1302524035, 
                 "\u5b50\u89e6\u53d1\u5668_2"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                1918218345, 
+                "\u5b50\u89e6\u53d1\u5668"
             ]
         }
     }

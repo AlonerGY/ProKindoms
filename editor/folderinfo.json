@@ -34,7 +34,7 @@
      "/2147483647/gVJpwGdfEe6d-zDQQuhSCA", 
      1, 
      "0TZaT2mjEe6W6TDQQuhSCJ", 
-     "\u5956\u52b1\u65d7"
+     "\u5956\u52b1"
     ]
    }, 
    {
@@ -242,6 +242,13 @@
     "items": [
      "0TZaT2mjEe6W6TDQQuhSCJ", 
      5
+    ]
+   }, 
+   "134244075": {
+    "__tuple__": true, 
+    "items": [
+     "0TZaT2mjEe6W6TDQQuhSCJ", 
+     6
     ]
    }, 
    "134278521": {
@@ -600,9 +607,26 @@
      2147483647, 
      "code_explorer_custom_root_folder_name"
     ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "/2147483647", 
+     0, 
+     "AFbQLmwQEe6RtDDQQuhSCE", 
+     "\u9ec4\u5dfe\u4e4b\u4e71(0)"
+    ]
    }
   ], 
-  "d": {}
+  "d": {
+   "134229762": {
+    "__tuple__": true, 
+    "items": [
+     "AFbQLmwQEe6RtDDQQuhSCE", 
+     0
+    ]
+   }
+  }
  }, 
  "editor_deco_group": {
   "f": [], 

@@ -17,7 +17,7 @@
                 "PixelIntensity": 1.05
             }, 
             "4": {
-                "DepthScale": 2.5, 
+                "DepthScale": 0.79, 
                 "LineColor": {
                     "__tuple__": true, 
                     "items": [
