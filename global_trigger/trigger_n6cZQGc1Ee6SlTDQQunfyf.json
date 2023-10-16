@@ -102,23 +102,16 @@
                     "args_list": [
                         {
                             "arg_type": 100177, 
-                            "args_list": [], 
-                            "op_arg": [], 
-                            "op_arg_enable": [], 
-                            "sub_type": "d39f64b0699b11ee867d30d042e9dfc9"
-                        }
-                    ], 
-                    "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 1080102997000002, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [], 
+                            "args_list": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [], 
+                                    "call_rt_index": 0, 
+                                    "op_arg": [], 
+                                    "op_arg_enable": [], 
+                                    "sub_type": "d39f64b0699b11ee867d30d042e9dfc9"
+                                }
+                            ], 
                             "op_arg": [], 
                             "op_arg_enable": [], 
                             "sub_type": "5e3ea4c067fb11ee81eb30d042e9dfc9"
@@ -5603,6 +5596,13 @@
                         "items": [
                             1835479137, 
                             "\u9009\u62e9\u9009\u9879"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            734806117, 
+                            "\u968f\u673a\u6c60\u662f\u5426\u4e3a\u7a7a"
                         ]
                     }
                 ], 

@@ -216,6 +216,33 @@
                     "enable": true
                 }, 
                 {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100201, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "RANDOM_POOL", 
+                                        "\u968f\u673a\u6c60", 
+                                        "local"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 3
+                        }, 
+                        {
+                            "arg_type": 100201, 
+                            "args_list": [], 
+                            "sub_type": "CREATE_RANDOM_POOL"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 445501540000045, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "SET_RANDOM_POOL_VALUE", 
                     "args_list": [
                         {
@@ -242,14 +269,14 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                11
+                                3
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 445501540000003, 
-                    "enable": true
+                    "element_id": 445501540000029, 
+                    "enable": false
                 }, 
                 {
                     "action_type": "SET_RANDOM_POOL_VALUE", 
@@ -257,14 +284,11 @@
                         {
                             "arg_type": 100201, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "RANDOM_POOL", 
-                                        "\u968f\u673a\u6c60", 
-                                        "local"
-                                    ]
-                                }
+                                [
+                                    "RANDOM_POOL", 
+                                    "\u968f\u673a\u6c60", 
+                                    "local"
+                                ]
                             ], 
                             "sub_type": 3
                         }, 
@@ -278,14 +302,14 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                22
+                                2
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 445501540000004, 
-                    "enable": true
+                    "element_id": 445501540000058, 
+                    "enable": false
                 }, 
                 {
                     "action_type": "SET_RANDOM_POOL_VALUE", 
@@ -293,14 +317,11 @@
                         {
                             "arg_type": 100201, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "RANDOM_POOL", 
-                                        "\u968f\u673a\u6c60", 
-                                        "local"
-                                    ]
-                                }
+                                [
+                                    "RANDOM_POOL", 
+                                    "\u968f\u673a\u6c60", 
+                                    "local"
+                                ]
                             ], 
                             "sub_type": 3
                         }, 
@@ -314,14 +335,129 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                33
+                                1
                             ], 
                             "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 445501540000005, 
-                    "enable": true
+                    "element_id": 445501540000067, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100201, 
+                                                    "args_list": [
+                                                        {
+                                                            "__tuple__": true, 
+                                                            "items": [
+                                                                "RANDOM_POOL", 
+                                                                "\u968f\u673a\u6c60", 
+                                                                "local"
+                                                            ]
+                                                        }
+                                                    ], 
+                                                    "sub_type": 3
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100001, 
+                                                    "args_list": [
+                                                        false
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                true
+                                            ], 
+                                            "sub_type": "GET_BITRARY_RANDOM_POOL_VALUE"
+                                        }
+                                    ], 
+                                    "sub_type": "ANY_VAR_TO_STR"
+                                }
+                            ], 
+                            "sub_type": "ANY_VAR_TO_STR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 445501540000011, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100003, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100201, 
+                                                    "args_list": [
+                                                        [
+                                                            "RANDOM_POOL", 
+                                                            "\u968f\u673a\u6c60", 
+                                                            "local"
+                                                        ]
+                                                    ], 
+                                                    "sub_type": 3
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                {
+                                                    "arg_type": 100001, 
+                                                    "args_list": [
+                                                        false
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg_enable": [
+                                                true
+                                            ], 
+                                            "sub_type": "GET_BITRARY_RANDOM_POOL_VALUE"
+                                        }
+                                    ], 
+                                    "sub_type": "ANY_VAR_TO_STR"
+                                }
+                            ], 
+                            "sub_type": "ANY_VAR_TO_STR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 445501540000032, 
+                    "enable": false
                 }, 
                 {
                     "action_type": "TRAVERSE_RANDOM_POOL", 
@@ -366,7 +502,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 445501540000006, 
+                                    "element_id": 445501540000081, 
                                     "enable": true
                                 }
                             ], 
@@ -374,7 +510,7 @@
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 445501540000007, 
+                    "element_id": 445501540000076, 
                     "enable": true
                 }
             ], 
@@ -778,7 +914,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [
