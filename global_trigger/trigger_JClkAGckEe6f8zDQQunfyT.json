@@ -55,13 +55,10 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "INTEGER", 
-                                        "\u5f53\u524d\u62e5\u6709\u6b66\u5c06\u6570"
-                                    ]
-                                }
+                                [
+                                    "INTEGER", 
+                                    "\u5f53\u524d\u62e5\u6709\u6b66\u5c06\u6570"
+                                ]
                             ], 
                             "sub_type": 6
                         }, 
