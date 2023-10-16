@@ -244,85 +244,113 @@
             "data": {
                 "children": [
                     {
-                        "children": [
-                            {
-                                "children": [], 
-                                "event_list": [], 
-                                "image": 120512, 
-                                "name": "\u5185\u5e95", 
-                                "pos": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        0.0, 
-                                        0.0001220703125
-                                    ]
-                                }, 
-                                "pos_percent": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        0.0, 
-                                        0.01220703125
-                                    ]
-                                }, 
-                                "size": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        80.0, 
-                                        80.0
-                                    ]
-                                }, 
-                                "type": 4
-                            }, 
-                            {
-                                "children": [], 
-                                "event_list": [], 
-                                "image": 107868, 
-                                "name": "\u56fe\u6807", 
-                                "pos_percent": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        0.0, 
-                                        0.0
-                                    ]
-                                }, 
-                                "size": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        90.0, 
-                                        90.0
-                                    ]
-                                }, 
-                                "type": 4
-                            }, 
-                            {
-                                "children": [], 
-                                "event_list": [], 
-                                "image": 107265, 
-                                "name": "\u8fb9\u6846", 
-                                "pos": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        0.0, 
-                                        0.0001220703125
-                                    ]
-                                }, 
-                                "pos_percent": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        0.0, 
-                                        0.01220703125
-                                    ]
-                                }, 
-                                "size": {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        100.0, 
-                                        100.0
-                                    ]
-                                }, 
-                                "type": 4
-                            }
-                        ], 
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 134104, 
+                        "name": "\u6846\u4f53", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                360.0, 
+                                76.0
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                693.0, 
+                                156.0
+                            ]
+                        }, 
+                        "type": 4, 
+                        "visible": false
+                    }, 
+                    {
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 120512, 
+                        "name": "\u5185\u5e95", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                88.73358154296875, 
+                                77.40008544921875
+                            ]
+                        }, 
+                        "pos_percent": {
+                            "__tuple__": true, 
+                            "items": [
+                                12.324108547634548, 
+                                50.92110884817023
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                80.0, 
+                                80.0
+                            ]
+                        }, 
+                        "type": 4
+                    }, 
+                    {
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 107868, 
+                        "name": "\u56fe\u6807", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                88.73358154296875, 
+                                77.39990234375
+                            ]
+                        }, 
+                        "pos_percent": {
+                            "__tuple__": true, 
+                            "items": [
+                                12.324108547634548, 
+                                50.92098838404605
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                90.0, 
+                                90.0
+                            ]
+                        }, 
+                        "type": 4
+                    }, 
+                    {
+                        "children": [], 
+                        "event_list": [], 
+                        "image": 107265, 
+                        "name": "\u8fb9\u6846", 
+                        "pos": {
+                            "__tuple__": true, 
+                            "items": [
+                                88.73358154296875, 
+                                77.40008544921875
+                            ]
+                        }, 
+                        "pos_percent": {
+                            "__tuple__": true, 
+                            "items": [
+                                12.324108547634548, 
+                                50.92110884817023
+                            ]
+                        }, 
+                        "size": {
+                            "__tuple__": true, 
+                            "items": [
+                                100.0, 
+                                100.0
+                            ]
+                        }, 
+                        "type": 4
+                    }, 
+                    {
+                        "children": [], 
                         "event_list": [], 
                         "name": "\u5956\u52b1\u56fe", 
                         "pos": {

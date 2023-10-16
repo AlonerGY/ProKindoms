@@ -235,11 +235,14 @@
                                                                         {
                                                                             "arg_type": 100116, 
                                                                             "args_list": [
-                                                                                [
-                                                                                    "UNIT_NAME", 
-                                                                                    "\u654c\u4eba\u7c7b\u578b", 
-                                                                                    "local"
-                                                                                ]
+                                                                                {
+                                                                                    "__tuple__": true, 
+                                                                                    "items": [
+                                                                                        "UNIT_NAME", 
+                                                                                        "\u654c\u4eba\u7c7b\u578b", 
+                                                                                        "local"
+                                                                                    ]
+                                                                                }
                                                                             ], 
                                                                             "sub_type": 2
                                                                         }, 

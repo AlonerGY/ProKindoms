@@ -1,5 +1,12 @@
 {
-    "local_variable": {}, 
+    "local_variable": {
+        "213090305": {
+            "variable_dict": {
+                "SFX_ENTITY": {}
+            }, 
+            "variable_length_dict": {}
+        }
+    }, 
     "trigger_dict": {
         "213090305": {
             "action": [

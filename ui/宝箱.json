@@ -803,7 +803,8 @@
                                 ]
                             }, 
                             "type": 4, 
-                            "uid": "deb205d3-4af2-4d12-96f7-5b025a52d637"
+                            "uid": "deb205d3-4af2-4d12-96f7-5b025a52d637", 
+                            "visible": false
                         }, 
                         {
                             "children": [
@@ -936,6 +937,133 @@
                             }, 
                             "type": 4, 
                             "uid": "7714c1ee-ed96-404e-a9b4-8b146783ae0b"
+                        }, 
+                        {
+                            "children": [], 
+                            "color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    254, 
+                                    254, 
+                                    254, 
+                                    255
+                                ]
+                            }, 
+                            "event_list": [], 
+                            "image": 131358, 
+                            "name": "image_5", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    73.0, 
+                                    15.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    214.70588235294116, 
+                                    46.875
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "74103195-53f1-4260-a236-9a95ad6cc1ca"
+                        }, 
+                        {
+                            "children": [], 
+                            "color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    254, 
+                                    254, 
+                                    254, 
+                                    255
+                                ]
+                            }, 
+                            "event_list": [], 
+                            "image": 131358, 
+                            "name": "image_3", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -47.0, 
+                                    15.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -138.23529411764704, 
+                                    46.875
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    45.0, 
+                                    45.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "932399b3-6d65-4737-aff6-6d2407eef24d"
+                        }, 
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "HKWeiBeiW7", 
+                                    35
+                                ]
+                            }, 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    254, 
+                                    254, 
+                                    254, 
+                                    255
+                                ]
+                            }, 
+                            "name": "\u83b7\u5f97\u91d1\u5e01\u6570", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    10.0, 
+                                    16.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    29.411764705882355, 
+                                    50.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "9999", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "a7083c99-b30b-4e4e-b940-447df5b0a763"
                         }
                     ], 
                     "event_list": [], 
