@@ -30,6 +30,32 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "RANDOM_POOL", 
+                                                        "\u65b0\u6b66\u5c06\u7d22\u5f15\u968f\u673a\u6c60"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 3
+                                        }, 
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [], 
+                                            "sub_type": "CREATE_RANDOM_POOL"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000136, 
+                                    "enable": true
+                                }, 
+                                {
                                     "action_type": "FOR_INT_DO_ACTION", 
                                     "args_list": [
                                         {
@@ -144,7 +170,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 4915256000065, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "STORAGE_BOX", 
@@ -157,6 +183,32 @@
                         {
                             "arg_type": 100022, 
                             "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "RANDOM_POOL", 
+                                                        "\u65b0\u88c5\u5907\u7d22\u5f15\u968f\u673a\u6c60"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 3
+                                        }, 
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [], 
+                                            "sub_type": "CREATE_RANDOM_POOL"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000132, 
+                                    "enable": true
+                                }, 
                                 {
                                     "action_type": "FOR_INT_DO_ACTION", 
                                     "args_list": [
@@ -266,7 +318,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 4915256000109, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "STORAGE_BOX", 
@@ -310,6 +362,46 @@
                                         {
                                             "arg_type": 100022, 
                                             "args_list": [
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100201, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "RANDOM_POOL", 
+                                                                        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
+                                                                    ]
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100002, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "INTEGER", 
+                                                                                "i", 
+                                                                                "local"
+                                                                            ]
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": 6
+                                                                }
+                                                            ], 
+                                                            "sub_type": 3
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100201, 
+                                                            "args_list": [], 
+                                                            "sub_type": "CREATE_RANDOM_POOL"
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 4915256000143, 
+                                                    "enable": true
+                                                }, 
                                                 {
                                                     "action_type": "FOR_INT_DO_ACTION", 
                                                     "args_list": [
