@@ -3,6 +3,66 @@
         "4915256": {
             "action": [
                 {
+                    "action_type": "SET_ROLE_MOUSE_LEFT_CLICK", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "GET_CLIENT_ROLE"
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4915256000146, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_MOVE_SELECT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "GET_CLIENT_ROLE"
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4915256000156, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_ROLE_MOUSE_WHEEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "GET_CLIENT_ROLE"
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4915256000163, 
+                    "enable": false
+                }, 
+                {
                     "action_type": "CALL_TRIGGER_FUNC", 
                     "args_list": [
                         {
@@ -368,13 +428,10 @@
                                                         {
                                                             "arg_type": 100201, 
                                                             "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "RANDOM_POOL", 
-                                                                        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
-                                                                    ]
-                                                                }, 
+                                                                [
+                                                                    "RANDOM_POOL", 
+                                                                    "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4"
+                                                                ], 
                                                                 {
                                                                     "arg_type": 100002, 
                                                                     "args_list": [
@@ -442,13 +499,10 @@
                                                                         {
                                                                             "arg_type": 100201, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "__tuple__": true, 
-                                                                                    "items": [
-                                                                                        "RANDOM_POOL", 
-                                                                                        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
-                                                                                    ]
-                                                                                }, 
+                                                                                [
+                                                                                    "RANDOM_POOL", 
+                                                                                    "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4"
+                                                                                ], 
                                                                                 {
                                                                                     "arg_type": 100002, 
                                                                                     "args_list": [

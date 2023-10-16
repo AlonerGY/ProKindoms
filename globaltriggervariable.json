@@ -90,11 +90,15 @@
         }, 
         "445501540": {
             "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }, 
                 "RANDOM_POOL": {
                     "\u968f\u673a\u6c60": null
                 }
             }, 
             "variable_length_dict": {
+                "i": 0, 
                 "\u968f\u673a\u6c60": 0
             }
         }, 
@@ -253,6 +257,39 @@
                 "\u6389\u843d\u7269": 0
             }
         }, 
+        "1080504415": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "\u5956\u52b1\u7c7b\u578b": 0, 
+                    "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 0, 
+                    "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570": 0, 
+                    "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 0
+                }, 
+                "RANDOM_POOL": {
+                    "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60": null, 
+                    "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60": null, 
+                    "\u6b66\u5c06\u968f\u673a\u6c60": null, 
+                    "\u88c5\u5907\u968f\u673a\u6c60": null, 
+                    "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60": 0, 
+                "\u5956\u52b1\u7c7b\u578b": 0, 
+                "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60": 0, 
+                "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 10, 
+                "\u6b66\u5c06\u968f\u673a\u6c60": 0, 
+                "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570": 0, 
+                "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 10, 
+                "\u88c5\u5907\u968f\u673a\u6c60": 0, 
+                "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60": 0
+            }
+        }, 
         "1295478857": {
             "variable_dict": {
                 "INTEGER": {
@@ -287,6 +324,16 @@
                 "\u6280\u80fd\u5e8f\u53f7": 0, 
                 "\u6b66\u5c06id": 0, 
                 "\u91ca\u653e\u6280\u80fd\u7684\u5355\u4f4d": 0
+            }
+        }, 
+        "1399398502": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
             }
         }, 
         "1403007106": {
@@ -387,11 +434,23 @@
         "1936142430": {
             "variable_dict": {
                 "INTEGER": {
+                    "i": 0, 
                     "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
+                }, 
+                "TABLE": {
+                    "\u76ee\u6807\u661f\u7ea7\u8868": null, 
+                    "\u76ee\u6807\u914d\u7f6e\u8868": null
+                }, 
+                "UI_COMP": {
+                    "\u5956\u52b1\u4f4d\u63a7\u4ef6": ""
                 }
             }, 
             "variable_length_dict": {
-                "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
+                "i": 0, 
+                "\u5956\u52b1\u4f4d\u63a7\u4ef6": 0, 
+                "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0, 
+                "\u76ee\u6807\u661f\u7ea7\u8868": 0, 
+                "\u76ee\u6807\u914d\u7f6e\u8868": 0
             }
         }, 
         "1945030779": {
@@ -540,7 +599,7 @@
         "RANDOM_POOL": {
             "\u65b0\u6b66\u5c06\u7d22\u5f15\u968f\u673a\u6c60": null, 
             "\u65b0\u88c5\u5907\u7d22\u5f15\u968f\u673a\u6c60": null, 
-            "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60": null
+            "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4": null
         }, 
         "TABLE": {
             "UI_Manager": null, 
@@ -982,13 +1041,6 @@
         {
             "__tuple__": true, 
             "items": [
-                "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60", 
-                "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
                 "\u534a\u5c4f\u5e55\u5bbd\u5ea6", 
                 "\u534a\u5c4f\u5e55\u5bbd\u5ea6"
             ]
@@ -1005,6 +1057,13 @@
             "items": [
                 "\u4e0a\u5c4f\u5e55\u9ad8\u5ea6", 
                 "\u4e0a\u5c4f\u5e55\u9ad8\u5ea6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4", 
+                "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4"
             ]
         }, 
         {
@@ -1115,7 +1174,7 @@
         "\u6700\u7ec8\u589e\u4f24": 0, 
         "\u6b66\u5c06\u4f24\u5bb3\u7edf\u8ba1\u6570\u7ec4": 10, 
         "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4": 10, 
-        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60": 10, 
+        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4": 10, 
         "\u6cd5\u672f\u4f24\u5bb3\u52a0\u6210": 0, 
         "\u6cd5\u672f\u51fb\u9000": 0, 
         "\u6cd5\u672f\u53cd\u4f24": 0, 
