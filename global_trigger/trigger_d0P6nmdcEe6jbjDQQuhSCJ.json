@@ -4186,7 +4186,7 @@
                                                                 }, 
                                                                 [
                                                                     1744064401, 
-                                                                    "\u8bbe\u5b9a\u771f\u5b9e\u5b9d\u7bb1\u9053\u5177", 
+                                                                    "", 
                                                                     479289466, 
                                                                     "action_type"
                                                                 ], 
@@ -5101,7 +5101,7 @@
             ], 
             "call_enabled": true, 
             "condition": [], 
-            "enabled": true, 
+            "enabled": false, 
             "event": [
                 {
                     "args_list": [

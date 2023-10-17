@@ -13413,25 +13413,6 @@
             "trigger_name": "\u6e32\u67d3\u5b9d\u7bb1\u9009\u9879", 
             "valid": true
         }, 
-        "1281831008": {
-            "action": [], 
-            "call_enabled": true, 
-            "condition": [], 
-            "enabled": true, 
-            "event": [], 
-            "func_category": "t_function", 
-            "func_comment": "", 
-            "func_des": "\u51fd\u6570\u63cf\u8ff0", 
-            "func_id": "74c4c99167fb11eeb01d30d042e9dfc9", 
-            "func_name": "\u64ad\u653e\u5b9d\u7bb1\u52a8\u753b", 
-            "group_id": "1MSaD2m3Ee6AMTDQQunfyR", 
-            "is_func": true, 
-            "is_official_func": false, 
-            "p_trigger_id": null, 
-            "trigger_id": 1281831008, 
-            "trigger_name": "\u64ad\u653e\u5b9d\u7bb1\u52a8\u753b", 
-            "valid": true
-        }, 
         "1835479137": {
             "action": [
                 {
@@ -18618,13 +18599,6 @@
                 "items": [
                     1213251695, 
                     "\u6e32\u67d3\u5b9d\u7bb1\u9009\u9879"
-                ]
-            }, 
-            {
-                "__tuple__": true, 
-                "items": [
-                    1281831008, 
-                    "\u64ad\u653e\u5b9d\u7bb1\u52a8\u753b"
                 ]
             }, 
             {
