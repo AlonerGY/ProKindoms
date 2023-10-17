@@ -21,7 +21,7 @@
     "attack_speed": 500.0, 
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
-    "bar_show_name": 2, 
+    "bar_show_name": 0, 
     "bar_show_scale": true, 
     "bar_slot_size": 6, 
     "base_color_mod": 1, 
@@ -92,7 +92,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "dynamic_collision_r": 1.0, 
+    "dynamic_collision_r": 0.5, 
     "enemy_mini_map_icon": 100000, 
     "extra_dmg": 0.0, 
     "extra_dmg_grow": 0.0, 

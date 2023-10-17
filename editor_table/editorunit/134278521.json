@@ -102,7 +102,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "dynamic_collision_r": 1.0, 
+    "dynamic_collision_r": 0.5, 
     "enemy_mini_map_icon": 100000, 
     "extra_dmg": 0.0, 
     "extra_dmg_grow": 0.0, 

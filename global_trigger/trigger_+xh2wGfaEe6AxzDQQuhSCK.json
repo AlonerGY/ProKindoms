@@ -3,8 +3,21 @@
         "23482488": {
             "action": [
                 {
-                    "action_type": "RUN_COUNT_TIMER_NO_SAVE", 
+                    "action_type": "RUN_COUNT_TIMER", 
                     "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "NEW_TIMER", 
+                                        "\u9ec4\u5dfe\u4e4b\u4e71\u51fa\u602a\u8ba1\u65f6\u5668"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }, 
                         {
                             "arg_type": 100000, 
                             "args_list": [
@@ -273,7 +286,7 @@
                                                                                 {
                                                                                     "arg_type": 100000, 
                                                                                     "args_list": [
-                                                                                        4200.0
+                                                                                        4000.0
                                                                                     ], 
                                                                                     "sub_type": 1
                                                                                 }

@@ -1,7 +1,7 @@
 {
-    "4": 1.2, 
+    "4": 2.0, 
     "_custom_": true, 
-    "_ref_": 134274335, 
+    "_ref_": 134272992, 
     "attach_models": {
         "__tuple__": true, 
         "items": []
@@ -56,7 +56,7 @@
             0
         ]
     }, 
-    "description": 445148603, 
+    "description": -236460354, 
     "effect_list": {
         "__tuple__": true, 
         "items": []
@@ -74,7 +74,7 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "icon": 100000, 
-    "key": 134282801, 
+    "key": 134244762, 
     "kv": {}, 
     "material_alpha": 0, 
     "material_change": 0, 
@@ -87,9 +87,9 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "model": 103337, 
+    "model": 203451, 
     "model_opacity": 1, 
-    "name": -127299467, 
+    "name": -1082600013, 
     "receive_decal": false, 
     "scale": 1.0, 
     "suffix": "", 
@@ -97,7 +97,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134282801", 
+    "uid": "134244762", 
     "use_base_tint_color": false, 
     "use_fresnel": false, 
     "use_physics": false

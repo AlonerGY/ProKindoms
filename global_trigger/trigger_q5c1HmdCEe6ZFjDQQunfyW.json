@@ -93,9 +93,51 @@
                     "bp": false, 
                     "element_id": 165167232000009, 
                     "enable": true
+                }, 
+                {
+                    "action_type": "PAUSE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "NEW_TIMER", 
+                                        "\u9ec4\u5dfe\u4e4b\u4e71\u51fa\u602a\u8ba1\u65f6\u5668"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 165167232000020, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "PAUSE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "NEW_TIMER", 
+                                        "\u9ec4\u5dfe\u4e4b\u4e71\u8ba1\u65f6\u8ba1\u65f6\u5668"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 165167232000023, 
+                    "enable": true
                 }
             ], 
-            "call_enabled": false, 
+            "call_enabled": true, 
             "condition": [], 
             "enabled": true, 
             "event": [], 
@@ -750,9 +792,48 @@
                     "bp": false, 
                     "element_id": 2145550465000004, 
                     "enable": true
+                }, 
+                {
+                    "action_type": "RESUME_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                [
+                                    "NEW_TIMER", 
+                                    "\u9ec4\u5dfe\u4e4b\u4e71\u51fa\u602a\u8ba1\u65f6\u5668"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2145550465000017, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "RESUME_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "NEW_TIMER", 
+                                        "\u9ec4\u5dfe\u4e4b\u4e71\u8ba1\u65f6\u8ba1\u65f6\u5668"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2145550465000020, 
+                    "enable": true
                 }
             ], 
-            "call_enabled": false, 
+            "call_enabled": true, 
             "condition": [], 
             "enabled": true, 
             "event": [], 
