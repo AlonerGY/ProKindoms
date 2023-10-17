@@ -9695,7 +9695,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1080504415, 
             "trigger_name": "\u751f\u6210\u5b9d\u7bb1\u5956\u52b1\u7d22\u5f15", 
-            "valid": true
+            "valid": false
         }, 
         "1281831008": {
             "action": [], 
@@ -11553,7 +11553,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1936142430, 
             "trigger_name": "\u6e32\u67d3\u5347\u7ea7\u9009\u9879", 
-            "valid": true
+            "valid": false
         }, 
         "2070360156": {
             "action": [
