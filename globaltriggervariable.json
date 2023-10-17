@@ -281,6 +281,38 @@
                 "\u6389\u843d\u7269": 0
             }
         }, 
+        "1080504415": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "j": 0, 
+                    "\u5956\u52b1\u7c7b\u578b": 0, 
+                    "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 0, 
+                    "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570": 0, 
+                    "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 0
+                }, 
+                "RANDOM_POOL": {
+                    "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60": null, 
+                    "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60": null, 
+                    "\u6b66\u5c06\u968f\u673a\u6c60": null, 
+                    "\u88c5\u5907\u968f\u673a\u6c60": null, 
+                    "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60": null
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "j": 0, 
+                "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60": 0, 
+                "\u5956\u52b1\u7c7b\u578b": 0, 
+                "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60": 0, 
+                "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 10, 
+                "\u6b66\u5c06\u968f\u673a\u6c60": 0, 
+                "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570": 0, 
+                "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 10, 
+                "\u88c5\u5907\u968f\u673a\u6c60": 0, 
+                "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60": 0
+            }
+        }, 
         "1295478857": {
             "variable_dict": {
                 "INTEGER": {
@@ -417,11 +449,21 @@
                 "INTEGER": {
                     "i": 0, 
                     "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
+                }, 
+                "TABLE": {
+                    "\u76ee\u6807\u661f\u7ea7\u8868": null, 
+                    "\u76ee\u6807\u914d\u7f6e\u8868": null
+                }, 
+                "UI_COMP": {
+                    "\u5956\u52b1\u4f4d\u63a7\u4ef6": ""
                 }
             }, 
             "variable_length_dict": {
                 "i": 0, 
-                "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0
+                "\u5956\u52b1\u4f4d\u63a7\u4ef6": 0, 
+                "\u6e32\u67d3\u9009\u9879\u4e2a\u6570": 0, 
+                "\u76ee\u6807\u661f\u7ea7\u8868": 0, 
+                "\u76ee\u6807\u914d\u7f6e\u8868": 0
             }
         }, 
         "1945030779": {

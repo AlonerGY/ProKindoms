@@ -6260,11 +6260,14 @@
                                                                                         {
                                                                                             "arg_type": 100028, 
                                                                                             "args_list": [
-                                                                                                [
-                                                                                                    "INTEGER", 
-                                                                                                    "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                    "local"
-                                                                                                ], 
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "INTEGER", 
+                                                                                                        "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                        "local"
+                                                                                                    ]
+                                                                                                }, 
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
@@ -6278,11 +6281,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100002, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "INTEGER", 
-                                                                                                                    "i", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "INTEGER", 
+                                                                                                                        "i", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 6
                                                                                                         }, 
@@ -6329,11 +6335,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100002, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "INTEGER", 
-                                                                                                                    "i", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "INTEGER", 
+                                                                                                                        "i", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 6
                                                                                                         }, 
@@ -6385,11 +6394,14 @@
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
-                                                                                                        [
-                                                                                                            "INTEGER", 
-                                                                                                            "i", 
-                                                                                                            "local"
-                                                                                                        ]
+                                                                                                        {
+                                                                                                            "__tuple__": true, 
+                                                                                                            "items": [
+                                                                                                                "INTEGER", 
+                                                                                                                "i", 
+                                                                                                                "local"
+                                                                                                            ]
+                                                                                                        }
                                                                                                     ], 
                                                                                                     "sub_type": 6
                                                                                                 }, 
@@ -6503,11 +6515,14 @@
                                                         {
                                                             "arg_type": 100002, 
                                                             "args_list": [
-                                                                [
-                                                                    "INTEGER", 
-                                                                    "i", 
-                                                                    "local"
-                                                                ]
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "i", 
+                                                                        "local"
+                                                                    ]
+                                                                }
                                                             ], 
                                                             "sub_type": 6
                                                         }, 
@@ -6552,11 +6567,14 @@
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
-                                                                                                        [
-                                                                                                            "INTEGER", 
-                                                                                                            "i", 
-                                                                                                            "local"
-                                                                                                        ]
+                                                                                                        {
+                                                                                                            "__tuple__": true, 
+                                                                                                            "items": [
+                                                                                                                "INTEGER", 
+                                                                                                                "i", 
+                                                                                                                "local"
+                                                                                                            ]
+                                                                                                        }
                                                                                                     ], 
                                                                                                     "sub_type": 6
                                                                                                 }, 
@@ -6622,11 +6640,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100002, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "INTEGER", 
-                                                                                                                    "i", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "INTEGER", 
+                                                                                                                        "i", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 6
                                                                                                         }, 
@@ -6673,11 +6694,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100002, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "INTEGER", 
-                                                                                                                    "i", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "INTEGER", 
+                                                                                                                        "i", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 6
                                                                                                         }, 
@@ -6729,11 +6753,14 @@
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
-                                                                                                        [
-                                                                                                            "INTEGER", 
-                                                                                                            "i", 
-                                                                                                            "local"
-                                                                                                        ]
+                                                                                                        {
+                                                                                                            "__tuple__": true, 
+                                                                                                            "items": [
+                                                                                                                "INTEGER", 
+                                                                                                                "i", 
+                                                                                                                "local"
+                                                                                                            ]
+                                                                                                        }
                                                                                                     ], 
                                                                                                     "sub_type": 6
                                                                                                 }, 
@@ -6840,14 +6867,11 @@
                                         {
                                             "arg_type": 100201, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "RANDOM_POOL", 
-                                                        "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60", 
-                                                        "local"
-                                                    ]
-                                                }
+                                                [
+                                                    "RANDOM_POOL", 
+                                                    "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60", 
+                                                    "local"
+                                                ]
                                             ], 
                                             "sub_type": 3
                                         }, 
@@ -6959,14 +6983,11 @@
                                                 {
                                                     "arg_type": 100201, 
                                                     "args_list": [
-                                                        {
-                                                            "__tuple__": true, 
-                                                            "items": [
-                                                                "RANDOM_POOL", 
-                                                                "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60", 
-                                                                "local"
-                                                            ]
-                                                        }
+                                                        [
+                                                            "RANDOM_POOL", 
+                                                            "\u5956\u52b1\u4e2a\u6570\u968f\u673a\u6c60", 
+                                                            "local"
+                                                        ]
                                                     ], 
                                                     "sub_type": 3
                                                 }
@@ -7060,14 +7081,11 @@
                                                                                         {
                                                                                             "arg_type": 100002, 
                                                                                             "args_list": [
-                                                                                                {
-                                                                                                    "__tuple__": true, 
-                                                                                                    "items": [
-                                                                                                        "INTEGER", 
-                                                                                                        "i", 
-                                                                                                        "local"
-                                                                                                    ]
-                                                                                                }
+                                                                                                [
+                                                                                                    "INTEGER", 
+                                                                                                    "i", 
+                                                                                                    "local"
+                                                                                                ]
                                                                                             ], 
                                                                                             "sub_type": 6
                                                                                         }, 
@@ -7112,14 +7130,11 @@
                                                                                                                                 {
                                                                                                                                     "arg_type": 100002, 
                                                                                                                                     "args_list": [
-                                                                                                                                        {
-                                                                                                                                            "__tuple__": true, 
-                                                                                                                                            "items": [
-                                                                                                                                                "INTEGER", 
-                                                                                                                                                "i", 
-                                                                                                                                                "local"
-                                                                                                                                            ]
-                                                                                                                                        }
+                                                                                                                                        [
+                                                                                                                                            "INTEGER", 
+                                                                                                                                            "i", 
+                                                                                                                                            "local"
+                                                                                                                                        ]
                                                                                                                                     ], 
                                                                                                                                     "sub_type": 6
                                                                                                                                 }, 
@@ -7292,14 +7307,11 @@
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100201, 
                                                                                                                                                             "args_list": [
-                                                                                                                                                                {
-                                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                                    "items": [
-                                                                                                                                                                        "RANDOM_POOL", 
-                                                                                                                                                                        "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                                                                        "local"
-                                                                                                                                                                    ]
-                                                                                                                                                                }
+                                                                                                                                                                [
+                                                                                                                                                                    "RANDOM_POOL", 
+                                                                                                                                                                    "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                                                                                    "local"
+                                                                                                                                                                ]
                                                                                                                                                             ], 
                                                                                                                                                             "sub_type": 3
                                                                                                                                                         }, 
@@ -7435,14 +7447,11 @@
                                                                                                 {
                                                                                                     "arg_type": 100201, 
                                                                                                     "args_list": [
-                                                                                                        {
-                                                                                                            "__tuple__": true, 
-                                                                                                            "items": [
-                                                                                                                "RANDOM_POOL", 
-                                                                                                                "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                "local"
-                                                                                                            ]
-                                                                                                        }
+                                                                                                        [
+                                                                                                            "RANDOM_POOL", 
+                                                                                                            "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                            "local"
+                                                                                                        ]
                                                                                                     ], 
                                                                                                     "sub_type": 3
                                                                                                 }
@@ -7491,13 +7500,10 @@
                                                                                                         {
                                                                                                             "arg_type": 100028, 
                                                                                                             "args_list": [
-                                                                                                                {
-                                                                                                                    "__tuple__": true, 
-                                                                                                                    "items": [
-                                                                                                                        "INTEGER", 
-                                                                                                                        "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
-                                                                                                                    ]
-                                                                                                                }, 
+                                                                                                                [
+                                                                                                                    "INTEGER", 
+                                                                                                                    "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
+                                                                                                                ], 
                                                                                                                 {
                                                                                                                     "arg_type": 100002, 
                                                                                                                     "args_list": [
@@ -7514,14 +7520,11 @@
                                                                                                                 {
                                                                                                                     "arg_type": 100201, 
                                                                                                                     "args_list": [
-                                                                                                                        {
-                                                                                                                            "__tuple__": true, 
-                                                                                                                            "items": [
-                                                                                                                                "RANDOM_POOL", 
-                                                                                                                                "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                                "local"
-                                                                                                                            ]
-                                                                                                                        }
+                                                                                                                        [
+                                                                                                                            "RANDOM_POOL", 
+                                                                                                                            "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                                            "local"
+                                                                                                                        ]
                                                                                                                     ], 
                                                                                                                     "sub_type": 3
                                                                                                                 }
@@ -7551,13 +7554,10 @@
                                                                                                         {
                                                                                                             "arg_type": 100028, 
                                                                                                             "args_list": [
-                                                                                                                {
-                                                                                                                    "__tuple__": true, 
-                                                                                                                    "items": [
-                                                                                                                        "INTEGER", 
-                                                                                                                        "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
-                                                                                                                    ]
-                                                                                                                }, 
+                                                                                                                [
+                                                                                                                    "INTEGER", 
+                                                                                                                    "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
+                                                                                                                ], 
                                                                                                                 {
                                                                                                                     "arg_type": 100002, 
                                                                                                                     "args_list": [
@@ -7597,14 +7597,11 @@
                                                                                                                         {
                                                                                                                             "arg_type": 100028, 
                                                                                                                             "args_list": [
-                                                                                                                                {
-                                                                                                                                    "__tuple__": true, 
-                                                                                                                                    "items": [
-                                                                                                                                        "INTEGER", 
-                                                                                                                                        "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                                                        "local"
-                                                                                                                                    ]
-                                                                                                                                }, 
+                                                                                                                                [
+                                                                                                                                    "INTEGER", 
+                                                                                                                                    "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                                                    "local"
+                                                                                                                                ], 
                                                                                                                                 {
                                                                                                                                     "arg_type": 100002, 
                                                                                                                                     "args_list": [
@@ -7631,14 +7628,11 @@
                                                                                                                                 {
                                                                                                                                     "arg_type": 100002, 
                                                                                                                                     "args_list": [
-                                                                                                                                        {
-                                                                                                                                            "__tuple__": true, 
-                                                                                                                                            "items": [
-                                                                                                                                                "INTEGER", 
-                                                                                                                                                "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                                                                "local"
-                                                                                                                                            ]
-                                                                                                                                        }, 
+                                                                                                                                        [
+                                                                                                                                            "INTEGER", 
+                                                                                                                                            "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                                                            "local"
+                                                                                                                                        ], 
                                                                                                                                         {
                                                                                                                                             "arg_type": 100002, 
                                                                                                                                             "args_list": [
@@ -7692,24 +7686,18 @@
                                                                                                                                         {
                                                                                                                                             "arg_type": 100002, 
                                                                                                                                             "args_list": [
-                                                                                                                                                {
-                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                    "items": [
-                                                                                                                                                        "INTEGER", 
-                                                                                                                                                        "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                                                                        "local"
-                                                                                                                                                    ]
-                                                                                                                                                }, 
+                                                                                                                                                [
+                                                                                                                                                    "INTEGER", 
+                                                                                                                                                    "\u6b66\u5c06\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                                                                    "local"
+                                                                                                                                                ], 
                                                                                                                                                 {
                                                                                                                                                     "arg_type": 100002, 
                                                                                                                                                     "args_list": [
-                                                                                                                                                        {
-                                                                                                                                                            "__tuple__": true, 
-                                                                                                                                                            "items": [
-                                                                                                                                                                "INTEGER", 
-                                                                                                                                                                "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
-                                                                                                                                                            ]
-                                                                                                                                                        }, 
+                                                                                                                                                        [
+                                                                                                                                                            "INTEGER", 
+                                                                                                                                                            "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
+                                                                                                                                                        ], 
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100002, 
                                                                                                                                                             "args_list": [
@@ -7754,14 +7742,11 @@
                                                                                                                                         {
                                                                                                                                             "arg_type": 100201, 
                                                                                                                                             "args_list": [
-                                                                                                                                                {
-                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                    "items": [
-                                                                                                                                                        "RANDOM_POOL", 
-                                                                                                                                                        "\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                                                        "local"
-                                                                                                                                                    ]
-                                                                                                                                                }
+                                                                                                                                                [
+                                                                                                                                                    "RANDOM_POOL", 
+                                                                                                                                                    "\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                                                                    "local"
+                                                                                                                                                ]
                                                                                                                                             ], 
                                                                                                                                             "sub_type": 3
                                                                                                                                         }, 
@@ -7947,14 +7932,11 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "i", 
-                                                        "local"
-                                                    ]
-                                                }
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
                                             ], 
                                             "sub_type": 6
                                         }, 
@@ -7968,14 +7950,11 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570", 
-                                                        "local"
-                                                    ]
-                                                }
+                                                [
+                                                    "INTEGER", 
+                                                    "\u751f\u6210\u5956\u52b1\u7684\u4e2a\u6570", 
+                                                    "local"
+                                                ]
                                             ], 
                                             "sub_type": 6
                                         }, 
@@ -8004,14 +7983,11 @@
                                                                                         {
                                                                                             "arg_type": 100002, 
                                                                                             "args_list": [
-                                                                                                {
-                                                                                                    "__tuple__": true, 
-                                                                                                    "items": [
-                                                                                                        "INTEGER", 
-                                                                                                        "i", 
-                                                                                                        "local"
-                                                                                                    ]
-                                                                                                }
+                                                                                                [
+                                                                                                    "INTEGER", 
+                                                                                                    "i", 
+                                                                                                    "local"
+                                                                                                ]
                                                                                             ], 
                                                                                             "sub_type": 6
                                                                                         }, 
@@ -8157,14 +8133,11 @@
                                                                                                                 {
                                                                                                                     "arg_type": 100201, 
                                                                                                                     "args_list": [
-                                                                                                                        {
-                                                                                                                            "__tuple__": true, 
-                                                                                                                            "items": [
-                                                                                                                                "RANDOM_POOL", 
-                                                                                                                                "\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                                "local"
-                                                                                                                            ]
-                                                                                                                        }
+                                                                                                                        [
+                                                                                                                            "RANDOM_POOL", 
+                                                                                                                            "\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                                            "local"
+                                                                                                                        ]
                                                                                                                     ], 
                                                                                                                     "sub_type": 3
                                                                                                                 }
@@ -8202,14 +8175,11 @@
                                                                                                         {
                                                                                                             "arg_type": 100201, 
                                                                                                             "args_list": [
-                                                                                                                {
-                                                                                                                    "__tuple__": true, 
-                                                                                                                    "items": [
-                                                                                                                        "RANDOM_POOL", 
-                                                                                                                        "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
-                                                                                                                        "local"
-                                                                                                                    ]
-                                                                                                                }
+                                                                                                                [
+                                                                                                                    "RANDOM_POOL", 
+                                                                                                                    "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
+                                                                                                                    "local"
+                                                                                                                ]
                                                                                                             ], 
                                                                                                             "sub_type": 3
                                                                                                         }, 
@@ -8244,14 +8214,11 @@
                                                                                                         {
                                                                                                             "arg_type": 100201, 
                                                                                                             "args_list": [
-                                                                                                                {
-                                                                                                                    "__tuple__": true, 
-                                                                                                                    "items": [
-                                                                                                                        "RANDOM_POOL", 
-                                                                                                                        "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
-                                                                                                                        "local"
-                                                                                                                    ]
-                                                                                                                }
+                                                                                                                [
+                                                                                                                    "RANDOM_POOL", 
+                                                                                                                    "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
+                                                                                                                    "local"
+                                                                                                                ]
                                                                                                             ], 
                                                                                                             "sub_type": 3
                                                                                                         }, 
@@ -8323,14 +8290,11 @@
                                                                                                                 {
                                                                                                                     "arg_type": 100201, 
                                                                                                                     "args_list": [
-                                                                                                                        {
-                                                                                                                            "__tuple__": true, 
-                                                                                                                            "items": [
-                                                                                                                                "RANDOM_POOL", 
-                                                                                                                                "\u88c5\u5907\u968f\u673a\u6c60", 
-                                                                                                                                "local"
-                                                                                                                            ]
-                                                                                                                        }
+                                                                                                                        [
+                                                                                                                            "RANDOM_POOL", 
+                                                                                                                            "\u88c5\u5907\u968f\u673a\u6c60", 
+                                                                                                                            "local"
+                                                                                                                        ]
                                                                                                                     ], 
                                                                                                                     "sub_type": 3
                                                                                                                 }
@@ -8501,14 +8465,11 @@
                                                                 {
                                                                     "arg_type": 100201, 
                                                                     "args_list": [
-                                                                        {
-                                                                            "__tuple__": true, 
-                                                                            "items": [
-                                                                                "RANDOM_POOL", 
-                                                                                "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
-                                                                                "local"
-                                                                            ]
-                                                                        }
+                                                                        [
+                                                                            "RANDOM_POOL", 
+                                                                            "\u5956\u52b1\u7c7b\u578b\u968f\u673a\u6c60", 
+                                                                            "local"
+                                                                        ]
                                                                     ], 
                                                                     "sub_type": 3
                                                                 }
@@ -8596,24 +8557,18 @@
                                                                                         {
                                                                                             "arg_type": 100028, 
                                                                                             "args_list": [
-                                                                                                {
-                                                                                                    "__tuple__": true, 
-                                                                                                    "items": [
-                                                                                                        "INTEGER", 
-                                                                                                        "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
-                                                                                                    ]
-                                                                                                }, 
+                                                                                                [
+                                                                                                    "INTEGER", 
+                                                                                                    "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
+                                                                                                ], 
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
-                                                                                                        {
-                                                                                                            "__tuple__": true, 
-                                                                                                            "items": [
-                                                                                                                "INTEGER", 
-                                                                                                                "i", 
-                                                                                                                "local"
-                                                                                                            ]
-                                                                                                        }
+                                                                                                        [
+                                                                                                            "INTEGER", 
+                                                                                                            "i", 
+                                                                                                            "local"
+                                                                                                        ]
                                                                                                     ], 
                                                                                                     "sub_type": 6
                                                                                                 }
@@ -8638,24 +8593,18 @@
                                                                                         {
                                                                                             "arg_type": 100028, 
                                                                                             "args_list": [
-                                                                                                {
-                                                                                                    "__tuple__": true, 
-                                                                                                    "items": [
-                                                                                                        "INTEGER", 
-                                                                                                        "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
-                                                                                                    ]
-                                                                                                }, 
+                                                                                                [
+                                                                                                    "INTEGER", 
+                                                                                                    "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
+                                                                                                ], 
                                                                                                 {
                                                                                                     "arg_type": 100002, 
                                                                                                     "args_list": [
-                                                                                                        {
-                                                                                                            "__tuple__": true, 
-                                                                                                            "items": [
-                                                                                                                "INTEGER", 
-                                                                                                                "i", 
-                                                                                                                "local"
-                                                                                                            ]
-                                                                                                        }
+                                                                                                        [
+                                                                                                            "INTEGER", 
+                                                                                                            "i", 
+                                                                                                            "local"
+                                                                                                        ]
                                                                                                     ], 
                                                                                                     "sub_type": 6
                                                                                                 }
@@ -8711,11 +8660,14 @@
                                                                                         {
                                                                                             "arg_type": 100002, 
                                                                                             "args_list": [
-                                                                                                [
-                                                                                                    "INTEGER", 
-                                                                                                    "\u5956\u52b1\u7c7b\u578b", 
-                                                                                                    "local"
-                                                                                                ]
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "INTEGER", 
+                                                                                                        "\u5956\u52b1\u7c7b\u578b", 
+                                                                                                        "local"
+                                                                                                    ]
+                                                                                                }
                                                                                             ], 
                                                                                             "sub_type": 6
                                                                                         }, 
@@ -8785,14 +8737,11 @@
                                                                                                                 {
                                                                                                                     "arg_type": 100201, 
                                                                                                                     "args_list": [
-                                                                                                                        {
-                                                                                                                            "__tuple__": true, 
-                                                                                                                            "items": [
-                                                                                                                                "RANDOM_POOL", 
-                                                                                                                                "\u6b66\u5c06\u968f\u673a\u6c60", 
-                                                                                                                                "local"
-                                                                                                                            ]
-                                                                                                                        }
+                                                                                                                        [
+                                                                                                                            "RANDOM_POOL", 
+                                                                                                                            "\u6b66\u5c06\u968f\u673a\u6c60", 
+                                                                                                                            "local"
+                                                                                                                        ]
                                                                                                                     ], 
                                                                                                                     "sub_type": 3
                                                                                                                 }
@@ -8884,14 +8833,11 @@
                                                                                                                                         {
                                                                                                                                             "arg_type": 100002, 
                                                                                                                                             "args_list": [
-                                                                                                                                                {
-                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                    "items": [
-                                                                                                                                                        "INTEGER", 
-                                                                                                                                                        "i", 
-                                                                                                                                                        "local"
-                                                                                                                                                    ]
-                                                                                                                                                }
+                                                                                                                                                [
+                                                                                                                                                    "INTEGER", 
+                                                                                                                                                    "i", 
+                                                                                                                                                    "local"
+                                                                                                                                                ]
                                                                                                                                             ], 
                                                                                                                                             "sub_type": 6
                                                                                                                                         }
@@ -8922,14 +8868,11 @@
                                                                                                                                                 {
                                                                                                                                                     "arg_type": 100002, 
                                                                                                                                                     "args_list": [
-                                                                                                                                                        {
-                                                                                                                                                            "__tuple__": true, 
-                                                                                                                                                            "items": [
-                                                                                                                                                                "INTEGER", 
-                                                                                                                                                                "i", 
-                                                                                                                                                                "local"
-                                                                                                                                                            ]
-                                                                                                                                                        }
+                                                                                                                                                        [
+                                                                                                                                                            "INTEGER", 
+                                                                                                                                                            "i", 
+                                                                                                                                                            "local"
+                                                                                                                                                        ]
                                                                                                                                                     ], 
                                                                                                                                                     "sub_type": 6
                                                                                                                                                 }
@@ -8987,14 +8930,11 @@
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100002, 
                                                                                                                                                             "args_list": [
-                                                                                                                                                                {
-                                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                                    "items": [
-                                                                                                                                                                        "INTEGER", 
-                                                                                                                                                                        "i", 
-                                                                                                                                                                        "local"
-                                                                                                                                                                    ]
-                                                                                                                                                                }
+                                                                                                                                                                [
+                                                                                                                                                                    "INTEGER", 
+                                                                                                                                                                    "i", 
+                                                                                                                                                                    "local"
+                                                                                                                                                                ]
                                                                                                                                                             ], 
                                                                                                                                                             "sub_type": 6
                                                                                                                                                         }
@@ -9061,14 +9001,11 @@
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100002, 
                                                                                                                                                             "args_list": [
-                                                                                                                                                                {
-                                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                                    "items": [
-                                                                                                                                                                        "INTEGER", 
-                                                                                                                                                                        "i", 
-                                                                                                                                                                        "local"
-                                                                                                                                                                    ]
-                                                                                                                                                                }
+                                                                                                                                                                [
+                                                                                                                                                                    "INTEGER", 
+                                                                                                                                                                    "i", 
+                                                                                                                                                                    "local"
+                                                                                                                                                                ]
                                                                                                                                                             ], 
                                                                                                                                                             "sub_type": 6
                                                                                                                                                         }
@@ -9156,11 +9093,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100002, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "INTEGER", 
-                                                                                                                    "\u5956\u52b1\u7c7b\u578b", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "INTEGER", 
+                                                                                                                        "\u5956\u52b1\u7c7b\u578b", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 6
                                                                                                         }, 
@@ -9230,14 +9170,11 @@
                                                                                                                                 {
                                                                                                                                     "arg_type": 100201, 
                                                                                                                                     "args_list": [
-                                                                                                                                        {
-                                                                                                                                            "__tuple__": true, 
-                                                                                                                                            "items": [
-                                                                                                                                                "RANDOM_POOL", 
-                                                                                                                                                "\u88c5\u5907\u968f\u673a\u6c60", 
-                                                                                                                                                "local"
-                                                                                                                                            ]
-                                                                                                                                        }
+                                                                                                                                        [
+                                                                                                                                            "RANDOM_POOL", 
+                                                                                                                                            "\u88c5\u5907\u968f\u673a\u6c60", 
+                                                                                                                                            "local"
+                                                                                                                                        ]
                                                                                                                                     ], 
                                                                                                                                     "sub_type": 3
                                                                                                                                 }
@@ -9314,14 +9251,11 @@
                                                                                                                                         {
                                                                                                                                             "arg_type": 100028, 
                                                                                                                                             "args_list": [
-                                                                                                                                                {
-                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                    "items": [
-                                                                                                                                                        "INTEGER", 
-                                                                                                                                                        "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                                                                        "local"
-                                                                                                                                                    ]
-                                                                                                                                                }, 
+                                                                                                                                                [
+                                                                                                                                                    "INTEGER", 
+                                                                                                                                                    "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                                                                    "local"
+                                                                                                                                                ], 
                                                                                                                                                 {
                                                                                                                                                     "arg_type": 100002, 
                                                                                                                                                     "args_list": [
@@ -9352,14 +9286,11 @@
                                                                                                                                                 {
                                                                                                                                                     "arg_type": 100002, 
                                                                                                                                                     "args_list": [
-                                                                                                                                                        {
-                                                                                                                                                            "__tuple__": true, 
-                                                                                                                                                            "items": [
-                                                                                                                                                                "INTEGER", 
-                                                                                                                                                                "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
-                                                                                                                                                                "local"
-                                                                                                                                                            ]
-                                                                                                                                                        }, 
+                                                                                                                                                        [
+                                                                                                                                                            "INTEGER", 
+                                                                                                                                                            "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4", 
+                                                                                                                                                            "local"
+                                                                                                                                                        ], 
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100002, 
                                                                                                                                                             "args_list": [
@@ -9477,14 +9408,11 @@
                                                                                                                                                         {
                                                                                                                                                             "arg_type": 100201, 
                                                                                                                                                             "args_list": [
-                                                                                                                                                                {
-                                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                                    "items": [
-                                                                                                                                                                        "RANDOM_POOL", 
-                                                                                                                                                                        "\u88c5\u5907\u968f\u673a\u6c60", 
-                                                                                                                                                                        "local"
-                                                                                                                                                                    ]
-                                                                                                                                                                }
+                                                                                                                                                                [
+                                                                                                                                                                    "RANDOM_POOL", 
+                                                                                                                                                                    "\u88c5\u5907\u968f\u673a\u6c60", 
+                                                                                                                                                                    "local"
+                                                                                                                                                                ]
                                                                                                                                                             ], 
                                                                                                                                                             "sub_type": 3
                                                                                                                                                         }, 
@@ -9695,7 +9623,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1080504415, 
             "trigger_name": "\u751f\u6210\u5b9d\u7bb1\u5956\u52b1\u7d22\u5f15", 
-            "valid": false
+            "valid": true
         }, 
         "1281831008": {
             "action": [], 
@@ -10197,14 +10125,11 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "INTEGER", 
-                                        "i", 
-                                        "local"
-                                    ]
-                                }
+                                [
+                                    "INTEGER", 
+                                    "i", 
+                                    "local"
+                                ]
                             ], 
                             "sub_type": 6
                         }, 
@@ -10218,14 +10143,11 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "INTEGER", 
-                                        "\u6e32\u67d3\u9009\u9879\u4e2a\u6570", 
-                                        "local"
-                                    ]
-                                }
+                                [
+                                    "INTEGER", 
+                                    "\u6e32\u67d3\u9009\u9879\u4e2a\u6570", 
+                                    "local"
+                                ]
                             ], 
                             "sub_type": 6
                         }, 
@@ -10344,24 +10266,18 @@
                                                                         {
                                                                             "arg_type": 100002, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "__tuple__": true, 
-                                                                                    "items": [
-                                                                                        "INTEGER", 
-                                                                                        "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
-                                                                                    ]
-                                                                                }, 
+                                                                                [
+                                                                                    "INTEGER", 
+                                                                                    "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
+                                                                                ], 
                                                                                 {
                                                                                     "arg_type": 100002, 
                                                                                     "args_list": [
-                                                                                        {
-                                                                                            "__tuple__": true, 
-                                                                                            "items": [
-                                                                                                "INTEGER", 
-                                                                                                "i", 
-                                                                                                "local"
-                                                                                            ]
-                                                                                        }
+                                                                                        [
+                                                                                            "INTEGER", 
+                                                                                            "i", 
+                                                                                            "local"
+                                                                                        ]
                                                                                     ], 
                                                                                     "sub_type": 6
                                                                                 }
@@ -10517,11 +10433,14 @@
                                                                                         {
                                                                                             "arg_type": 100030, 
                                                                                             "args_list": [
-                                                                                                [
-                                                                                                    "TABLE", 
-                                                                                                    "\u76ee\u6807\u914d\u7f6e\u8868", 
-                                                                                                    "local"
-                                                                                                ]
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "TABLE", 
+                                                                                                        "\u76ee\u6807\u914d\u7f6e\u8868", 
+                                                                                                        "local"
+                                                                                                    ]
+                                                                                                }
                                                                                             ], 
                                                                                             "sub_type": 1
                                                                                         }, 
@@ -10543,11 +10462,14 @@
                                                                                         {
                                                                                             "arg_type": 100030, 
                                                                                             "args_list": [
-                                                                                                [
-                                                                                                    "TABLE", 
-                                                                                                    "\u76ee\u6807\u661f\u7ea7\u8868", 
-                                                                                                    "local"
-                                                                                                ]
+                                                                                                {
+                                                                                                    "__tuple__": true, 
+                                                                                                    "items": [
+                                                                                                        "TABLE", 
+                                                                                                        "\u76ee\u6807\u661f\u7ea7\u8868", 
+                                                                                                        "local"
+                                                                                                    ]
+                                                                                                }
                                                                                             ], 
                                                                                             "sub_type": 1
                                                                                         }, 
@@ -10629,11 +10551,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100030, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "TABLE", 
-                                                                                                                    "\u76ee\u6807\u914d\u7f6e\u8868", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "TABLE", 
+                                                                                                                        "\u76ee\u6807\u914d\u7f6e\u8868", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 1
                                                                                                         }, 
@@ -10655,11 +10580,14 @@
                                                                                                         {
                                                                                                             "arg_type": 100030, 
                                                                                                             "args_list": [
-                                                                                                                [
-                                                                                                                    "TABLE", 
-                                                                                                                    "\u76ee\u6807\u661f\u7ea7\u8868", 
-                                                                                                                    "local"
-                                                                                                                ]
+                                                                                                                {
+                                                                                                                    "__tuple__": true, 
+                                                                                                                    "items": [
+                                                                                                                        "TABLE", 
+                                                                                                                        "\u76ee\u6807\u661f\u7ea7\u8868", 
+                                                                                                                        "local"
+                                                                                                                    ]
+                                                                                                                }
                                                                                                             ], 
                                                                                                             "sub_type": 1
                                                                                                         }, 
@@ -10828,24 +10756,18 @@
                                                                         {
                                                                             "arg_type": 100002, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "__tuple__": true, 
-                                                                                    "items": [
-                                                                                        "INTEGER", 
-                                                                                        "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
-                                                                                    ]
-                                                                                }, 
+                                                                                [
+                                                                                    "INTEGER", 
+                                                                                    "\u5956\u52b1\u7c7b\u578b\u6570\u7ec4"
+                                                                                ], 
                                                                                 {
                                                                                     "arg_type": 100002, 
                                                                                     "args_list": [
-                                                                                        {
-                                                                                            "__tuple__": true, 
-                                                                                            "items": [
-                                                                                                "INTEGER", 
-                                                                                                "i", 
-                                                                                                "local"
-                                                                                            ]
-                                                                                        }
+                                                                                        [
+                                                                                            "INTEGER", 
+                                                                                            "i", 
+                                                                                            "local"
+                                                                                        ]
                                                                                     ], 
                                                                                     "sub_type": 6
                                                                                 }
@@ -10905,14 +10827,11 @@
                                                                         {
                                                                             "arg_type": 100002, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "__tuple__": true, 
-                                                                                    "items": [
-                                                                                        "INTEGER", 
-                                                                                        "i", 
-                                                                                        "local"
-                                                                                    ]
-                                                                                }
+                                                                                [
+                                                                                    "INTEGER", 
+                                                                                    "i", 
+                                                                                    "local"
+                                                                                ]
                                                                             ], 
                                                                             "sub_type": 6
                                                                         }
@@ -11057,24 +10976,18 @@
                                                                 {
                                                                     "arg_type": 100002, 
                                                                     "args_list": [
-                                                                        {
-                                                                            "__tuple__": true, 
-                                                                            "items": [
-                                                                                "INTEGER", 
-                                                                                "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
-                                                                            ]
-                                                                        }, 
+                                                                        [
+                                                                            "INTEGER", 
+                                                                            "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
+                                                                        ], 
                                                                         {
                                                                             "arg_type": 100002, 
                                                                             "args_list": [
-                                                                                {
-                                                                                    "__tuple__": true, 
-                                                                                    "items": [
-                                                                                        "INTEGER", 
-                                                                                        "i", 
-                                                                                        "local"
-                                                                                    ]
-                                                                                }
+                                                                                [
+                                                                                    "INTEGER", 
+                                                                                    "i", 
+                                                                                    "local"
+                                                                                ]
                                                                             ], 
                                                                             "sub_type": 6
                                                                         }
@@ -11208,11 +11121,14 @@
                                                                 {
                                                                     "arg_type": 100070, 
                                                                     "args_list": [
-                                                                        [
-                                                                            "UI_COMP", 
-                                                                            "\u5956\u52b1\u4f4d\u63a7\u4ef6", 
-                                                                            "local"
-                                                                        ]
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "UI_COMP", 
+                                                                                "\u5956\u52b1\u4f4d\u63a7\u4ef6", 
+                                                                                "local"
+                                                                            ]
+                                                                        }
                                                                     ], 
                                                                     "sub_type": "VARIABLE"
                                                                 }, 
@@ -11232,11 +11148,14 @@
                                                                 {
                                                                     "arg_type": 100011, 
                                                                     "args_list": [
-                                                                        [
-                                                                            "TABLE", 
-                                                                            "\u76ee\u6807\u914d\u7f6e\u8868", 
-                                                                            "local"
-                                                                        ]
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "TABLE", 
+                                                                                "\u76ee\u6807\u914d\u7f6e\u8868", 
+                                                                                "local"
+                                                                            ]
+                                                                        }
                                                                     ], 
                                                                     "sub_type": "VARIABLE"
                                                                 }, 
@@ -11378,28 +11297,22 @@
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "i", 
-                                                        "local"
-                                                    ]
-                                                }
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
                                             ], 
                                             "sub_type": 6
                                         }, 
                                         {
                                             "arg_type": 100002, 
                                             "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "INTEGER", 
-                                                        "\u6e32\u67d3\u9009\u9879\u4e2a\u6570", 
-                                                        "local"
-                                                    ]
-                                                }
+                                                [
+                                                    "INTEGER", 
+                                                    "\u6e32\u67d3\u9009\u9879\u4e2a\u6570", 
+                                                    "local"
+                                                ]
                                             ], 
                                             "sub_type": 6
                                         }, 
@@ -11553,7 +11466,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1936142430, 
             "trigger_name": "\u6e32\u67d3\u5347\u7ea7\u9009\u9879", 
-            "valid": false
+            "valid": true
         }, 
         "2070360156": {
             "action": [
