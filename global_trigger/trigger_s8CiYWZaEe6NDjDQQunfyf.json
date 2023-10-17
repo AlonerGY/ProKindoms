@@ -625,7 +625,7 @@
             "p_trigger_id": null, 
             "trigger_id": 4915256, 
             "trigger_name": "\u6e38\u620f\u521d\u59cb\u5316", 
-            "valid": true
+            "valid": false
         }, 
         "561688635": {
             "action": [

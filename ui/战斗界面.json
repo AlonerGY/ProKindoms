@@ -169,7 +169,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "2ed80afb-e215-4e07-b9cc-efd8a39f6447"
+                    "uid": "2ed80afb-e215-4e07-b9cc-efd8a39f6447", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -337,7 +338,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "cdef9f03-7b6c-41b0-923e-ba392ccb98f1"
+                    "uid": "cdef9f03-7b6c-41b0-923e-ba392ccb98f1", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -505,7 +507,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "df421efc-0d81-43f9-a217-0d249ba3ee46"
+                    "uid": "df421efc-0d81-43f9-a217-0d249ba3ee46", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -673,7 +676,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "2b9e29f8-bd58-4d5d-86fd-e747e36a78b2"
+                    "uid": "2b9e29f8-bd58-4d5d-86fd-e747e36a78b2", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -841,7 +845,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "ae259db2-ffb7-46c0-a3dc-ea5a4d18d411"
+                    "uid": "ae259db2-ffb7-46c0-a3dc-ea5a4d18d411", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1009,7 +1014,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "e08f6321-bea1-4aa1-8dc9-371a5388754a"
+                    "uid": "e08f6321-bea1-4aa1-8dc9-371a5388754a", 
+                    "visible": false
                 }
             ], 
             "event_list": [], 
@@ -1161,7 +1167,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "528ec1a3-8c5a-4e4a-8de5-374a450e2c93"
+                    "uid": "528ec1a3-8c5a-4e4a-8de5-374a450e2c93", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1277,7 +1284,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "d4772d80-7545-457b-a311-8d5254f294df"
+                    "uid": "d4772d80-7545-457b-a311-8d5254f294df", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1393,7 +1401,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "c2c53111-421b-4dc6-b247-a0e5d9511596"
+                    "uid": "c2c53111-421b-4dc6-b247-a0e5d9511596", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1509,7 +1518,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "f9e50b1c-2457-4bda-86eb-c95f72d99bd2"
+                    "uid": "f9e50b1c-2457-4bda-86eb-c95f72d99bd2", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1625,7 +1635,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "a9d597a5-dad8-4f10-b044-3abc2b30ba43"
+                    "uid": "a9d597a5-dad8-4f10-b044-3abc2b30ba43", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -1741,7 +1752,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "9a165c98-8a17-461a-a11b-3c8508354691"
+                    "uid": "9a165c98-8a17-461a-a11b-3c8508354691", 
+                    "visible": false
                 }
             ], 
             "event_list": [], 
@@ -1783,6 +1795,6 @@
     "type": 2, 
     "ui_anims": [], 
     "uid": "a06b552f-340c-4098-8520-03f32bab0eca", 
-    "visible": false, 
+    "visible": true, 
     "zorder": 400
 }
