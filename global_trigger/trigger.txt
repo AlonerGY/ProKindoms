@@ -1,0 +1,38 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "+xh2wGfaEe6AxzDQQuhSCK": 14, 
+        "-7tr3mZvEe67PTDQQunfyS": 0, 
+        "0qncoW12Ee6YNTDQQunfyY": 5, 
+        "1K0acWm3Ee68nzDQQunfyQ": 21, 
+        "1MSaD2m3Ee6AMTDQQunfyR": 22, 
+        "BnoH7mccEe6SyjDQQundLj": 10, 
+        "C12oIWZ4Ee6K9DDQQunfyS": 8, 
+        "CaZnXm1sEe63wjDQQunfyc": 18, 
+        "IYLZgGZ+Ee6P8TDQQunfyf": 9, 
+        "JClkAGckEe6f8zDQQunfyT": 11, 
+        "LPjuwGZcEe6VlTDQQunfyT": 4, 
+        "Mmo-AGZzEe60UDDQQunfyZ": 3, 
+        "RPHWMGm5Ee6YLzDQQunfyV": 17, 
+        "TQjYoWZ7Ee6LVzDQQunfyT": 7, 
+        "d0P6nmdcEe6jbjDQQuhSCJ": 12, 
+        "eSbxsGZ7Ee65JDDQQunfyQ": 19, 
+        "n6cZQGc1Ee6SlTDQQunfyf": 13, 
+        "nL+yz2ZbEe6HgjDQQunfyU": 2, 
+        "q5c1HmdCEe6ZFjDQQunfyW": 6, 
+        "ruo-D2vUEe6EFzDQQuhSCB": 15, 
+        "s8CiYWZaEe6NDjDQQunfyf": 1, 
+        "wOcPwGc1Ee6uUDDQQunfyT": 20
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "16": {
+            "__tuple__": true, 
+            "items": [
+                1302524035, 
+                "\u5b50\u89e6\u53d1\u5668_2"
+            ]
+        }
+    }
+}

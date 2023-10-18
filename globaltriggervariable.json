@@ -454,6 +454,18 @@
                 "\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15": 0
             }
         }, 
+        "898207858": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u6280\u80fdid": 0, 
+                    "\u6280\u80fd\u5e8f\u53f7": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6280\u80fdid": 0, 
+                "\u6280\u80fd\u5e8f\u53f7": 0
+            }
+        }, 
         "923521127": {
             "variable_dict": {
                 "INTEGER": {
@@ -482,6 +494,16 @@
             }, 
             "variable_length_dict": {
                 "\u6389\u843d\u7269": 0
+            }
+        }, 
+        "1040216179": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "i": 0
             }
         }, 
         "1080504415": {
@@ -1096,7 +1118,7 @@
             "\u5175\u5203\u66b4\u51fb": 0.0, 
             "\u5175\u5203\u901f\u5ea6\u52a0\u6210": 0.0, 
             "\u51b0\u971c\u4f24\u5bb3\u52a0\u6210": 0.0, 
-            "\u51b7\u5374\u7f29\u51cf": 0.0, 
+            "\u51b7\u5374\u7f29\u51cf": 1.0, 
             "\u5207\u5272\u4f24\u5bb3\u52a0\u6210": 0.0, 
             "\u534a\u5c4f\u5e55\u5bbd\u5ea6": 2300.0, 
             "\u5438\u6536\u8303\u56f4\u52a0\u6210": 0.0, 
@@ -1448,13 +1470,6 @@
                 {
                     "__tuple__": true, 
                     "items": [
-                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4", 
-                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
                         "\u653b\u51fb\u5408\u6cd5", 
                         "\u653b\u51fb\u5408\u6cd5"
                     ]
@@ -1696,6 +1711,13 @@
                     "items": [
                         "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4", 
                         "\u5956\u52b1\u7d22\u5f15\u6570\u7ec4"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4", 
+                        "\u6b66\u5c06\u51b7\u5374\u6570\u7ec4"
                     ]
                 }
             ], 
