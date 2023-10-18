@@ -135,13 +135,19 @@
             "variable_dict": {
                 "INTEGER": {
                     "i": 0, 
+                    "\u5347\u661f\u83b7\u5f97\u5c5e\u6027\u8bcd\u6761\u7d22\u5f15": 0, 
                     "\u6280\u80fdid": 0, 
                     "\u661f\u7ea7": 0, 
                     "\u6b66\u5c06\u4f4d\u7f6e": 0
+                }, 
+                "STRING": {
+                    "str": ""
                 }
             }, 
             "variable_length_dict": {
                 "i": 0, 
+                "str": 10, 
+                "\u5347\u661f\u83b7\u5f97\u5c5e\u6027\u8bcd\u6761\u7d22\u5f15": 0, 
                 "\u6280\u80fdid": 0, 
                 "\u661f\u7ea7": 0, 
                 "\u6b66\u5c06\u4f4d\u7f6e": 0
