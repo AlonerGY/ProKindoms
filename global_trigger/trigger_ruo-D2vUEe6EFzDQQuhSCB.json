@@ -5144,57 +5144,19 @@
                                                                                                     "enable": true
                                                                                                 }, 
                                                                                                 {
-                                                                                                    "action_type": "SET_UI_COMP_VISIBLE", 
+                                                                                                    "action_type": "CALL_TRIGGER_FUNC", 
                                                                                                     "args_list": [
                                                                                                         {
-                                                                                                            "arg_type": 100025, 
+                                                                                                            "arg_type": 100177, 
                                                                                                             "args_list": [], 
-                                                                                                            "sub_type": "GET_CLIENT_ROLE"
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "arg_type": 100001, 
-                                                                                                            "args_list": [
-                                                                                                                false
-                                                                                                            ], 
-                                                                                                            "sub_type": 1
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "arg_type": 100070, 
-                                                                                                            "args_list": [
-                                                                                                                "a06b552f-340c-4098-8520-03f32bab0eca"
-                                                                                                            ], 
-                                                                                                            "sub_type": 1
+                                                                                                            "op_arg": [], 
+                                                                                                            "op_arg_enable": [], 
+                                                                                                            "sub_type": "f5ce8f216d6a11ee8cfe30d042e9dfc9"
                                                                                                         }
                                                                                                     ], 
                                                                                                     "bp": false, 
-                                                                                                    "element_id": 2138878065000090, 
-                                                                                                    "enable": true
-                                                                                                }, 
-                                                                                                {
-                                                                                                    "action_type": "SET_UI_COMP_VISIBLE", 
-                                                                                                    "args_list": [
-                                                                                                        {
-                                                                                                            "arg_type": 100025, 
-                                                                                                            "args_list": [], 
-                                                                                                            "sub_type": "GET_CLIENT_ROLE"
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "arg_type": 100001, 
-                                                                                                            "args_list": [
-                                                                                                                true
-                                                                                                            ], 
-                                                                                                            "sub_type": 1
-                                                                                                        }, 
-                                                                                                        {
-                                                                                                            "arg_type": 100070, 
-                                                                                                            "args_list": [
-                                                                                                                "e51cf2ab-2437-4d7e-9963-10ec90fccfa5"
-                                                                                                            ], 
-                                                                                                            "sub_type": 1
-                                                                                                        }
-                                                                                                    ], 
-                                                                                                    "bp": false, 
-                                                                                                    "element_id": 2138878065000091, 
+                                                                                                    "call_rt_arg_idxes": [], 
+                                                                                                    "element_id": 2107641970989330, 
                                                                                                     "enable": true
                                                                                                 }, 
                                                                                                 {
