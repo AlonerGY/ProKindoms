@@ -117,16 +117,6 @@
                 "\u7279\u6b8a\u654c\u4eba\u95f4\u8ddd\u89d2\u5ea6": 0
             }
         }, 
-        "308432998": {
-            "variable_dict": {
-                "UI_PREFAB_INSTANCE": {
-                    "\u6700\u7ec8\u754c\u9762\u7ec4\u4ef6": ""
-                }
-            }, 
-            "variable_length_dict": {
-                "\u6700\u7ec8\u754c\u9762\u7ec4\u4ef6": 0
-            }
-        }, 
         "445501540": {
             "variable_dict": {
                 "RANDOM_POOL": {
@@ -352,6 +342,33 @@
                 "\u88c5\u5907\u5956\u6c60\u6570\u91cf\u6570\u7ec4": 10, 
                 "\u88c5\u5907\u968f\u673a\u6c60": 0, 
                 "\u8fdb\u5316\u6b66\u5c06\u968f\u673a\u6c60": 0
+            }
+        }, 
+        "1127874673": {
+            "variable_dict": {
+                "INTEGER": {
+                    "i": 0, 
+                    "\u5b9d\u7bb1\u5956\u52b1\u603b\u6570": 0, 
+                    "\u661f\u7ea7": 0
+                }, 
+                "STRING": {}, 
+                "TABLE": {
+                    "\u76ee\u6807\u661f\u7ea7\u8868": null, 
+                    "\u76ee\u6807\u914d\u7f6e\u8868": null
+                }, 
+                "TEXTURE": {}, 
+                "UI_COMP": {
+                    "\u5956\u52b1\u4f4d\u63a7\u4ef6": ""
+                }, 
+                "UI_PREFAB_INSTANCE": {}
+            }, 
+            "variable_length_dict": {
+                "i": 0, 
+                "\u5956\u52b1\u4f4d\u63a7\u4ef6": 0, 
+                "\u5b9d\u7bb1\u5956\u52b1\u603b\u6570": 0, 
+                "\u661f\u7ea7": 0, 
+                "\u76ee\u6807\u661f\u7ea7\u8868": 0, 
+                "\u76ee\u6807\u914d\u7f6e\u8868": 0
             }
         }, 
         "1152397421": {
@@ -684,15 +701,6 @@
         }, 
         "2107641970": {
             "variable_dict": {
-                "FLOAT": {}, 
-                "INTEGER": {}, 
-                "UI_COMP": {}, 
-                "UI_PREFAB_INSTANCE": {}
-            }, 
-            "variable_length_dict": {}
-        }, 
-        "2138878065": {
-            "variable_dict": {
                 "FLOAT": {
                     "\u5b9d\u7bb1\u5956\u52b1\u6ed1\u52a8\u95f4\u9694": 0.1, 
                     "\u5b9d\u7bb1\u7bad\u5934\u95ea\u70c1\u95f4\u9694\u65f6\u95f4": 0.05, 
@@ -709,6 +717,7 @@
                     "\u751f\u6210\u7684\u7ec4\u4ef6\u5e8f\u53f7": 0, 
                     "\u7bad\u5934\u95ea\u70c1\u5e8f\u5217": 0
                 }, 
+                "NEW_TIMER": {}, 
                 "UI_COMP": {
                     "\u5b9d\u7bb1\u7bad\u5934\u63a7\u4ef6": ""
                 }, 

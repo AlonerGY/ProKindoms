@@ -4239,15 +4239,7 @@
                                                                             "args_list": [
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948214, 
@@ -4315,15 +4307,7 @@
                                                                             "args_list": [
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948233, 
@@ -4331,15 +4315,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948288, 
@@ -4347,15 +4323,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948277, 
@@ -4423,15 +4391,7 @@
                                                                             "args_list": [
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948262, 
@@ -4439,15 +4399,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948299, 
@@ -4455,15 +4407,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948308, 
@@ -4471,15 +4415,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948317, 
@@ -4487,15 +4423,7 @@
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                                                    "args_list": [
-                                                                                        {
-                                                                                            "arg_type": 100177, 
-                                                                                            "args_list": [], 
-                                                                                            "op_arg": [], 
-                                                                                            "op_arg_enable": [], 
-                                                                                            "sub_type": "1c919e306bd711ee978b30d042e85208"
-                                                                                        }
-                                                                                    ], 
+                                                                                    "args_list": [], 
                                                                                     "bp": false, 
                                                                                     "call_rt_arg_idxes": [], 
                                                                                     "element_id": 479289466948326, 
@@ -5122,7 +5050,7 @@
             "p_trigger_id": null, 
             "trigger_id": 479289466, 
             "trigger_name": "\u5b9d\u7bb1-\u6d4b\u8bd5", 
-            "valid": true
+            "valid": false
         }, 
         "1850380415": {
             "action": [
