@@ -2492,14 +2492,34 @@
                                     "arg_type": 100000, 
                                     "args_list": [
                                         {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "\u591a\u91cd\u6cd5\u672f"
-                                            ]
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "+"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "\u591a\u91cd\u6cd5\u672f"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
                                         }
                                     ], 
-                                    "sub_type": 2
+                                    "sub_type": "ARITHMETIC_OPERATION"
                                 }, 
                                 {
                                     "arg_type": 100017, 
@@ -3088,14 +3108,34 @@
                                     "arg_type": 100000, 
                                     "args_list": [
                                         {
-                                            "__tuple__": true, 
-                                            "items": [
-                                                "FLOAT", 
-                                                "\u591a\u91cd\u5175\u5203"
-                                            ]
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                1.0
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100017, 
+                                            "args_list": [
+                                                "+"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "FLOAT", 
+                                                        "\u591a\u91cd\u5175\u5203"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 2
                                         }
                                     ], 
-                                    "sub_type": 2
+                                    "sub_type": "ARITHMETIC_OPERATION"
                                 }, 
                                 {
                                     "arg_type": 100017, 

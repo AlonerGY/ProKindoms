@@ -578,6 +578,7 @@
                 }, 
                 "FLOAT": {
                     "\u51fb\u9000\u8ddd\u79bb": 0.0, 
+                    "\u57fa\u7840\u4f24\u5bb3": 0.0, 
                     "\u5bfc\u5f39\u521d\u901f\u5ea6": 0.0, 
                     "\u5bfc\u5f39\u7206\u70b8\u8303\u56f4": 0.0, 
                     "\u629b\u7269\u7ebf\u9ad8\u5ea6": 0.0, 
@@ -586,7 +587,8 @@
                 }, 
                 "INTEGER": {
                     "index": 0, 
-                    "\u5bfc\u5f39\u6570": 0
+                    "\u5bfc\u5f39\u6570": 0, 
+                    "\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15": 0
                 }, 
                 "POINT": {
                     "\u51fa\u751f\u70b9\u4f4d": {
@@ -615,12 +617,14 @@
                 "\u51b0\u51cc": 10, 
                 "\u51fa\u751f\u70b9\u4f4d": 0, 
                 "\u51fb\u9000\u8ddd\u79bb": 0, 
+                "\u57fa\u7840\u4f24\u5bb3": 0, 
                 "\u5bfc\u5f39\u521d\u901f\u5ea6": 0, 
                 "\u5bfc\u5f39\u6295\u5c04\u7269": 0, 
                 "\u5bfc\u5f39\u6570": 0, 
                 "\u5bfc\u5f39\u7206\u70b8\u8303\u56f4": 0, 
                 "\u629b\u7269\u7ebf\u9ad8\u5ea6": 0, 
                 "\u662f\u5426\u795e\u5c06": 0, 
+                "\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15": 0, 
                 "\u751f\u6210\u5355\u4f4d": 0, 
                 "\u751f\u6210\u8ddd\u79bb": 0, 
                 "\u751f\u6210\u9ad8\u5ea6": 0, 

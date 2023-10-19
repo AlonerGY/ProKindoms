@@ -209,7 +209,7 @@
 					<Entity type="ParticleEmitter">
 						<Name>刀痕</Name>
 						<Enable>true</Enable>
-						<Elements count="9" ordered="true">
+						<Elements count="10" ordered="true">
 							<Element index="0">
 								<Root>
 									<Sub />
@@ -312,6 +312,24 @@
 							<Element index="5">
 								<Root>
 									<Sub />
+									<Entity type="ParticleElementInitPosition">
+										<Name />
+										<Enable>true</Enable>
+										<PositionDistribution>
+											<Root>
+												<Sub />
+												<Entity type="DistributionConstantVector3">
+													<Value>(0.0, 0.5, 0.0)</Value>
+													<Name />
+												</Entity>
+											</Root>
+										</PositionDistribution>
+									</Entity>
+								</Root>
+							</Element>
+							<Element index="6">
+								<Root>
+									<Sub />
 									<Entity type="ParticleElementInitLife">
 										<Name />
 										<Enable>true</Enable>
@@ -328,7 +346,7 @@
 									</Entity>
 								</Root>
 							</Element>
-							<Element index="6">
+							<Element index="7">
 								<Root>
 									<Sub />
 									<Entity type="TwParticleElementSource">
@@ -344,13 +362,13 @@
 									</Entity>
 								</Root>
 							</Element>
-							<Element index="7">
+							<Element index="8">
 								<Root>
 									<Sub />
 									<Entity type="ParticleElementProperty">
 										<Name />
 										<Enable>true</Enable>
-										<Local>false</Local>
+										<Local>true</Local>
 										<MaxParticles>20</MaxParticles>
 										<DepthTest>true</DepthTest>
 										<LODGroup>Low</LODGroup>
@@ -385,7 +403,7 @@
 									</Entity>
 								</Root>
 							</Element>
-							<Element index="8">
+							<Element index="9">
 								<Root>
 									<Sub />
 									<Entity type="ParticleElementTypeDataMesh">

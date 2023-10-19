@@ -1073,6 +1073,80 @@
                                                                                                     "enable": true
                                                                                                 }, 
                                                                                                 {
+                                                                                                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                                                                                                    "args_list": [
+                                                                                                        {
+                                                                                                            "arg_type": 100175, 
+                                                                                                            "args_list": [
+                                                                                                                3
+                                                                                                            ], 
+                                                                                                            "sub_type": 1
+                                                                                                        }, 
+                                                                                                        {
+                                                                                                            "arg_type": 100003, 
+                                                                                                            "args_list": [
+                                                                                                                {
+                                                                                                                    "arg_type": 100003, 
+                                                                                                                    "args_list": [
+                                                                                                                        "\u91ca\u653e"
+                                                                                                                    ], 
+                                                                                                                    "sub_type": 1
+                                                                                                                }, 
+                                                                                                                {
+                                                                                                                    "arg_type": 100003, 
+                                                                                                                    "args_list": [
+                                                                                                                        {
+                                                                                                                            "arg_type": 100002, 
+                                                                                                                            "args_list": [
+                                                                                                                                {
+                                                                                                                                    "__tuple__": true, 
+                                                                                                                                    "items": [
+                                                                                                                                        "INTEGER", 
+                                                                                                                                        "\u6b66\u5c06id", 
+                                                                                                                                        "local"
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ], 
+                                                                                                                            "sub_type": 6
+                                                                                                                        }
+                                                                                                                    ], 
+                                                                                                                    "sub_type": "ANY_VAR_TO_STR"
+                                                                                                                }
+                                                                                                            ], 
+                                                                                                            "op_arg": [
+                                                                                                                {
+                                                                                                                    "arg_type": 100003, 
+                                                                                                                    "args_list": [
+                                                                                                                        "\u53f7\u6b66\u5c06\u7684\u6280\u80fd"
+                                                                                                                    ], 
+                                                                                                                    "sub_type": 1
+                                                                                                                }, 
+                                                                                                                null, 
+                                                                                                                null, 
+                                                                                                                null, 
+                                                                                                                null, 
+                                                                                                                null, 
+                                                                                                                null, 
+                                                                                                                null
+                                                                                                            ], 
+                                                                                                            "op_arg_enable": [
+                                                                                                                true, 
+                                                                                                                false, 
+                                                                                                                false, 
+                                                                                                                false, 
+                                                                                                                false, 
+                                                                                                                false, 
+                                                                                                                false, 
+                                                                                                                false
+                                                                                                            ], 
+                                                                                                            "sub_type": "STR_JOIN"
+                                                                                                        }
+                                                                                                    ], 
+                                                                                                    "bp": false, 
+                                                                                                    "element_id": 1334177891159322, 
+                                                                                                    "enable": false
+                                                                                                }, 
+                                                                                                {
                                                                                                     "action_type": "IF_THEN_ELSE", 
                                                                                                     "args_list": [
                                                                                                         {
@@ -1223,7 +1297,7 @@
                                                                                                                                             ], 
                                                                                                                                             "op_arg": [], 
                                                                                                                                             "op_arg_enable": [], 
-                                                                                                                                            "sub_type": "1e11129e673f11eebc8a30d042e9dfc9"
+                                                                                                                                            "sub_type": "250fff30673f11ee89ed30d042e9dfc9"
                                                                                                                                         }
                                                                                                                                     ], 
                                                                                                                                     "bp": false, 
@@ -1304,7 +1378,7 @@
                                                                                                                                                             ], 
                                                                                                                                                             "op_arg": [], 
                                                                                                                                                             "op_arg_enable": [], 
-                                                                                                                                                            "sub_type": "2464cb0f673f11ee86ac30d042e9dfc9"
+                                                                                                                                                            "sub_type": "25724370673f11ee923030d042e9dfc9"
                                                                                                                                                         }
                                                                                                                                                     ], 
                                                                                                                                                     "bp": false, 
@@ -1385,7 +1459,7 @@
                                                                                                                                                                             ], 
                                                                                                                                                                             "op_arg": [], 
                                                                                                                                                                             "op_arg_enable": [], 
-                                                                                                                                                                            "sub_type": "24aea54f673f11eea06c30d042e9dfc9"
+                                                                                                                                                                            "sub_type": "25d264cf673f11ee967830d042e9dfc9"
                                                                                                                                                                         }
                                                                                                                                                                     ], 
                                                                                                                                                                     "bp": false, 
@@ -1466,7 +1540,7 @@
                                                                                                                                                                                             ], 
                                                                                                                                                                                             "op_arg": [], 
                                                                                                                                                                                             "op_arg_enable": [], 
-                                                                                                                                                                                            "sub_type": "24ce1430673f11eea91c30d042e9dfc9"
+                                                                                                                                                                                            "sub_type": "2604985e673f11eeb24030d042e9dfc9"
                                                                                                                                                                                         }
                                                                                                                                                                                     ], 
                                                                                                                                                                                     "bp": false, 
@@ -1547,13 +1621,68 @@
                                                                                                                                                                                                             ], 
                                                                                                                                                                                                             "op_arg": [], 
                                                                                                                                                                                                             "op_arg_enable": [], 
-                                                                                                                                                                                                            "sub_type": "24dfee80673f11eeb36030d042e9dfc9"
+                                                                                                                                                                                                            "sub_type": "2638eed1673f11eeac6430d042e9dfc9"
                                                                                                                                                                                                         }
                                                                                                                                                                                                     ], 
                                                                                                                                                                                                     "bp": false, 
                                                                                                                                                                                                     "call_rt_arg_idxes": [], 
                                                                                                                                                                                                     "element_id": 1334177891000016, 
                                                                                                                                                                                                     "enable": true
+                                                                                                                                                                                                }, 
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                                                                                                                                                                                                    "args_list": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "arg_type": 100175, 
+                                                                                                                                                                                                            "args_list": [
+                                                                                                                                                                                                                3
+                                                                                                                                                                                                            ], 
+                                                                                                                                                                                                            "sub_type": 1
+                                                                                                                                                                                                        }, 
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "arg_type": 100003, 
+                                                                                                                                                                                                            "args_list": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "arg_type": 100003, 
+                                                                                                                                                                                                                    "args_list": [
+                                                                                                                                                                                                                        "\u91ca\u653e"
+                                                                                                                                                                                                                    ], 
+                                                                                                                                                                                                                    "sub_type": 1
+                                                                                                                                                                                                                }, 
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "arg_type": 100003, 
+                                                                                                                                                                                                                    "args_list": [
+                                                                                                                                                                                                                        "\u5468\u745c\u6280\u80fd"
+                                                                                                                                                                                                                    ], 
+                                                                                                                                                                                                                    "sub_type": 1
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ], 
+                                                                                                                                                                                                            "op_arg": [
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null, 
+                                                                                                                                                                                                                null
+                                                                                                                                                                                                            ], 
+                                                                                                                                                                                                            "op_arg_enable": [
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false, 
+                                                                                                                                                                                                                false
+                                                                                                                                                                                                            ], 
+                                                                                                                                                                                                            "sub_type": "STR_JOIN"
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ], 
+                                                                                                                                                                                                    "bp": false, 
+                                                                                                                                                                                                    "element_id": 1334177891159318, 
+                                                                                                                                                                                                    "enable": false
                                                                                                                                                                                                 }
                                                                                                                                                                                             ], 
                                                                                                                                                                                             "sub_type": 1
@@ -6416,6 +6545,78 @@
                     {
                         "__tuple__": true, 
                         "items": [
+                            73871450, 
+                            "\u83b7\u5f97\u6b66\u5c06"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            157757531, 
+                            "\u83b7\u5f97\u88c5\u5907"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            862400605, 
+                            "\u751f\u6210\u5347\u7ea7\u9009\u9879\u7d22\u5f15"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            734806117, 
+                            "\u968f\u673a\u6c60\u662f\u5426\u4e3a\u7a7a"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1936142430, 
+                            "\u6e32\u67d3\u5347\u7ea7\u9009\u9879"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1080504415, 
+                            "\u751f\u6210\u5b9d\u7bb1\u5956\u52b1\u7d22\u5f15"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1213251695, 
+                            "\u6e32\u67d3\u5b9d\u7bb1\u9009\u9879"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1835479137, 
+                            "\u9009\u62e9\u9009\u9879"
+                        ]
+                    }, 
+                    {
+                        "__tuple__": true, 
+                        "items": [
+                            1153355883, 
+                            "\u83b7\u53d6\u6b66\u5c06/\u88c5\u5907\u7684\u5f53\u524d\u661f\u7ea7"
+                        ]
+                    }
+                ], 
+                "is_sub_folder": true, 
+                "key": "1MSaD2m3Ee6AMTDQQunfyR", 
+                "name": "\u6b66\u5c06\u4e0e\u88c5\u5907\u83b7\u53d6"
+            }, 
+            {
+                "_function_": true, 
+                "_trigger_group_": true, 
+                "group": [
+                    {
+                        "__tuple__": true, 
+                        "items": [
                             839925835, 
                             "\u66f9\u64cd\u653b\u51fb\u51fd\u6570"
                         ]
@@ -6699,78 +6900,6 @@
                 "is_sub_folder": true, 
                 "key": "1K0acWm3Ee68nzDQQunfyQ", 
                 "name": "\u4f24\u5bb3\u6a21\u5757"
-            }, 
-            {
-                "_function_": true, 
-                "_trigger_group_": true, 
-                "group": [
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            73871450, 
-                            "\u83b7\u5f97\u6b66\u5c06"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            157757531, 
-                            "\u83b7\u5f97\u88c5\u5907"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            862400605, 
-                            "\u751f\u6210\u5347\u7ea7\u9009\u9879\u7d22\u5f15"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            734806117, 
-                            "\u968f\u673a\u6c60\u662f\u5426\u4e3a\u7a7a"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            1936142430, 
-                            "\u6e32\u67d3\u5347\u7ea7\u9009\u9879"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            1080504415, 
-                            "\u751f\u6210\u5b9d\u7bb1\u5956\u52b1\u7d22\u5f15"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            1213251695, 
-                            "\u6e32\u67d3\u5b9d\u7bb1\u9009\u9879"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            1835479137, 
-                            "\u9009\u62e9\u9009\u9879"
-                        ]
-                    }, 
-                    {
-                        "__tuple__": true, 
-                        "items": [
-                            1153355883, 
-                            "\u83b7\u53d6\u6b66\u5c06/\u88c5\u5907\u7684\u5f53\u524d\u661f\u7ea7"
-                        ]
-                    }
-                ], 
-                "is_sub_folder": true, 
-                "key": "1MSaD2m3Ee6AMTDQQunfyR", 
-                "name": "\u6b66\u5c06\u4e0e\u88c5\u5907\u83b7\u53d6"
             }, 
             {
                 "__tuple__": true, 

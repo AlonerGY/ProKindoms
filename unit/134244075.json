@@ -208,7 +208,7 @@
                     ]
                 }
             ], 
-            "call_enabled": true, 
+            "call_enabled": false, 
             "condition": [], 
             "enabled": false, 
             "event": [

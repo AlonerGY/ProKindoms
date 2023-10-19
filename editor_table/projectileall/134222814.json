@@ -5,10 +5,10 @@
     "_custom_": true, 
     "_ref_": 134268052, 
     "async_effect": false, 
-    "description": 1063515344, 
+    "description": -533820189, 
     "effect_destroy_way_is_immediately": false, 
     "effect_foes": [
-        134230476, 
+        134251651, 
         {
             "__tuple__": true, 
             "items": [
@@ -74,7 +74,7 @@
         }
     ], 
     "effect_friend": [
-        134230476, 
+        134251651, 
         {
             "__tuple__": true, 
             "items": [
@@ -140,12 +140,12 @@
         }
     ], 
     "icon": 100000, 
-    "key": 134268052, 
+    "key": 134222814, 
     "kv": {}, 
     "max_duration": 60, 
     "move_channel": 1, 
     "move_limitation": 1, 
-    "name": 1428950955, 
+    "name": -433403357, 
     "sfx_loop": false, 
     "sound_event_list": {
         "__tuple__": true, 
@@ -156,5 +156,5 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134268052"
+    "uid": "134222814"
 }

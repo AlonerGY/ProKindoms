@@ -1717,8 +1717,34 @@
                                                                     ], 
                                                                     "sub_type": "VARIABLE"
                                                                 }, 
-                                                                null, 
-                                                                null
+                                                                {
+                                                                    "arg_type": 100002, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "INTEGER", 
+                                                                                "\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15", 
+                                                                                "local"
+                                                                            ]
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": 6
+                                                                }, 
+                                                                {
+                                                                    "arg_type": 100000, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "__tuple__": true, 
+                                                                            "items": [
+                                                                                "FLOAT", 
+                                                                                "\u57fa\u7840\u4f24\u5bb3", 
+                                                                                "local"
+                                                                            ]
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": 2
+                                                                }
                                                             ], 
                                                             "op_arg": [], 
                                                             "op_arg_enable": [], 
@@ -2004,7 +2030,7 @@
             "event": [], 
             "func_category": "t_function", 
             "func_comment": "", 
-            "func_des": "\u4f7f\u67d0\u5355\u4f4d\uff1a{\u751f\u6210\u5355\u4f4d}\u751f\u6210\uff1a{\u5bfc\u5f39\u6570}\u9897\u5bfc\u5f39\uff0c\u8ddd\u79bb\u8eab\u4f53\uff1a{\u751f\u6210\u8ddd\u79bb}\u5398\u7c73\uff0c\u9ad8\u5ea6\u4e3a\uff1a{\u751f\u6210\u9ad8\u5ea6}\uff0c\u8ffd\u8e2a\u76ee\u6807\u5355\u4f4d\uff1a{\u8ffd\u8e2a\u76ee\u6807}\uff0c\u5bfc\u5f39\u7206\u70b8\u8303\u56f4\uff1a{\u5bfc\u5f39\u7206\u70b8\u8303\u56f4}\uff0c\u662f\u5426\u662f\u795e\u5c06\u5bfc\u5f39\uff1a{\u662f\u5426\u795e\u5c06}\uff0c\u51fb\u9000\u8ddd\u79bb\u4e3a\uff1a{\u51fb\u9000\u8ddd\u79bb}\uff0c\u629b\u7269\u7ebf\u9ad8\u5ea6\u4e3a\uff1a{\u629b\u7269\u7ebf\u9ad8\u5ea6}\uff0c\u6295\u5c04\u7269\u7c7b\u578b\u662f\uff1a{\u5bfc\u5f39\u6295\u5c04\u7269}\uff0c\u521d\u901f\u5ea6\u4e3a\uff1a{\u5bfc\u5f39\u521d\u901f\u5ea6}", 
+            "func_des": "\u4f7f\u67d0\u5355\u4f4d\uff1a{\u751f\u6210\u5355\u4f4d}\u751f\u6210\uff1a{\u5bfc\u5f39\u6570}\u9897\u5bfc\u5f39\uff0c\u8ddd\u79bb\u8eab\u4f53\uff1a{\u751f\u6210\u8ddd\u79bb}\u5398\u7c73\uff0c\u9ad8\u5ea6\u4e3a\uff1a{\u751f\u6210\u9ad8\u5ea6}\uff0c\u8ffd\u8e2a\u76ee\u6807\u5355\u4f4d\uff1a{\u8ffd\u8e2a\u76ee\u6807}\uff0c\u5bfc\u5f39\u7206\u70b8\u8303\u56f4\uff1a{\u5bfc\u5f39\u7206\u70b8\u8303\u56f4}\uff0c\u662f\u5426\u662f\u795e\u5c06\u5bfc\u5f39\uff1a{\u662f\u5426\u795e\u5c06}\uff0c\u51fb\u9000\u8ddd\u79bb\u4e3a\uff1a{\u51fb\u9000\u8ddd\u79bb}\uff0c\u629b\u7269\u7ebf\u9ad8\u5ea6\u4e3a\uff1a{\u629b\u7269\u7ebf\u9ad8\u5ea6}\uff0c\u6295\u5c04\u7269\u7c7b\u578b\u662f\uff1a{\u5bfc\u5f39\u6295\u5c04\u7269}\uff0c\u521d\u901f\u5ea6\u4e3a\uff1a{\u5bfc\u5f39\u521d\u901f\u5ea6}\uff0c\u57fa\u7840\u4f24\u5bb3{\u57fa\u7840\u4f24\u5bb3}\uff0c\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15{\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15}\u3002", 
             "func_id": "72ddaf6e6da011eeab0930d042e9dd2e", 
             "func_name": "\u751f\u6210\u5f39\u9053\u8ffd\u8e2a\u5bfc\u5f39", 
             "func_param_list": [
@@ -2082,6 +2108,20 @@
                     "__tuple__": true, 
                     "items": [
                         "\u5bfc\u5f39\u521d\u901f\u5ea6", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u57fa\u7840\u4f24\u5bb3", 
+                        true
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u6b66\u5c06\u4f4d\u7f6e\u7d22\u5f15", 
                         true
                     ]
                 }
