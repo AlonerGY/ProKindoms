@@ -13888,13 +13888,9 @@
                                                                                                 {
                                                                                                     "arg_type": 100000, 
                                                                                                     "args_list": [
-                                                                                                        [
-                                                                                                            "FLOAT", 
-                                                                                                            "local_\u5175\u5668\u6301\u7eed", 
-                                                                                                            "local"
-                                                                                                        ]
+                                                                                                        99999999.0
                                                                                                     ], 
-                                                                                                    "sub_type": 2
+                                                                                                    "sub_type": 1
                                                                                                 }, 
                                                                                                 {
                                                                                                     "arg_type": 100002, 
