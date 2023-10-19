@@ -76,7 +76,7 @@
             1
         ]
     }, 
-    "common_atk_type": 999, 
+    "common_atk_type": 0, 
     "content": "strength", 
     "copper coin": 0, 
     "critical_chance": 0.0, 

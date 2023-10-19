@@ -5,7 +5,7 @@
         "bloom_strength": 1.0
     }, 
     "color_grading": {
-        "color_grading_type": 1
+        "color_grading_type": 2
     }, 
     "env_time_of_day": {
         "time_of_day_template": 300001
@@ -22,7 +22,7 @@
             ]
         }, 
         "height_fog_end": 0.0, 
-        "height_fog_fall_off": 0.2
+        "height_fog_fall_off": 0.6
     }, 
     "post_style": {
         "post_style_shader_params": {
@@ -99,6 +99,6 @@
         "vignetting_breath_rate": 0.0, 
         "vignetting_change_range": 0.0, 
         "vignetting_open": true, 
-        "vignetting_size": 0.5
+        "vignetting_size": 0.2
     }
 }

@@ -90,6 +90,308 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "RANDOM_POOL", 
+                                                        "\u65b0\u6b66\u5c06\u7d22\u5f15\u968f\u673a\u6c60"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 3
+                                        }, 
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [], 
+                                            "sub_type": "CREATE_RANDOM_POOL"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000136, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "FOR_INT_DO_ACTION", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "INTEGER", 
+                                                        "i", 
+                                                        "local"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100011, 
+                                                    "args_list": [
+                                                        "f9d00e30-ccc8-4ad0-abbe-63ac6283b63f"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u6b66\u5c06\u603b\u6570\u91cf"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_INTEGER_TABLE_VAR_1D"
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_RANDOM_POOL_VALUE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100201, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "RANDOM_POOL", 
+                                                                        "\u65b0\u6b66\u5c06\u7d22\u5f15\u968f\u673a\u6c60"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 3
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "INTEGER", 
+                                                                        "i", 
+                                                                        "local"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 4915256000091, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000071, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u65b0\u6b66\u5c06\u7d22\u5f15\u968f\u673a\u6c60"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4915256000065, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "RANDOM_POOL", 
+                                                        "\u65b0\u88c5\u5907\u7d22\u5f15\u968f\u673a\u6c60"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 3
+                                        }, 
+                                        {
+                                            "arg_type": 100201, 
+                                            "args_list": [], 
+                                            "sub_type": "CREATE_RANDOM_POOL"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000132, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "FOR_INT_DO_ACTION", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "i", 
+                                                    "local"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                1
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100011, 
+                                                    "args_list": [
+                                                        "f9d00e30-ccc8-4ad0-abbe-63ac6283b63f"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100003, 
+                                                    "args_list": [
+                                                        "\u88c5\u5907\u603b\u6570\u91cf"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_INTEGER_TABLE_VAR_1D"
+                                        }, 
+                                        {
+                                            "arg_type": 100022, 
+                                            "args_list": [
+                                                {
+                                                    "action_type": "SET_RANDOM_POOL_VALUE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100201, 
+                                                            "args_list": [
+                                                                {
+                                                                    "__tuple__": true, 
+                                                                    "items": [
+                                                                        "RANDOM_POOL", 
+                                                                        "\u65b0\u88c5\u5907\u7d22\u5f15\u968f\u673a\u6c60"
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 3
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                [
+                                                                    "INTEGER", 
+                                                                    "i", 
+                                                                    "local"
+                                                                ]
+                                                            ], 
+                                                            "sub_type": 6
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 4915256000129, 
+                                                    "enable": true
+                                                }
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 4915256000115, 
+                                    "enable": true
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u65b0\u88c5\u5907\u7d22\u5f15\u968f\u673a\u6c60"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 4915256000109, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "STORAGE_BOX", 
+                    "args_list": [
+                        {
+                            "arg_type": 100021, 
+                            "args_list": [], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
                                     "action_type": "FOR_INT_DO_ACTION", 
                                     "args_list": [
                                         {
@@ -126,13 +428,10 @@
                                                         {
                                                             "arg_type": 100201, 
                                                             "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "RANDOM_POOL", 
-                                                                        "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
-                                                                    ]
-                                                                }, 
+                                                                [
+                                                                    "RANDOM_POOL", 
+                                                                    "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4"
+                                                                ], 
                                                                 {
                                                                     "arg_type": 100002, 
                                                                     "args_list": [
@@ -202,7 +501,7 @@
                                                                             "args_list": [
                                                                                 [
                                                                                     "RANDOM_POOL", 
-                                                                                    "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60"
+                                                                                    "\u6b66\u5c06\u5347\u661f\u83b7\u53d6\u5c5e\u6027\u7d22\u5f15\u968f\u673a\u6c60\u6570\u7ec4"
                                                                                 ], 
                                                                                 {
                                                                                     "arg_type": 100002, 
@@ -326,7 +625,7 @@
             "p_trigger_id": null, 
             "trigger_id": 4915256, 
             "trigger_name": "\u6e38\u620f\u521d\u59cb\u5316", 
-            "valid": true
+            "valid": false
         }, 
         "561688635": {
             "action": [
