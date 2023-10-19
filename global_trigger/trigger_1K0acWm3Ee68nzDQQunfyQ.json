@@ -2559,13 +2559,10 @@
                                                                                                                         {
                                                                                                                             "arg_type": 100002, 
                                                                                                                             "args_list": [
-                                                                                                                                {
-                                                                                                                                    "__tuple__": true, 
-                                                                                                                                    "items": [
-                                                                                                                                        "INTEGER", 
-                                                                                                                                        "\u5175\u5203\u7a7f\u900f_2"
-                                                                                                                                    ]
-                                                                                                                                }
+                                                                                                                                [
+                                                                                                                                    "INTEGER", 
+                                                                                                                                    "\u5175\u5203\u7a7f\u900f"
+                                                                                                                                ]
                                                                                                                             ], 
                                                                                                                             "sub_type": 6
                                                                                                                         }
@@ -3203,13 +3200,10 @@
                                                                                                                                         {
                                                                                                                                             "arg_type": 100002, 
                                                                                                                                             "args_list": [
-                                                                                                                                                {
-                                                                                                                                                    "__tuple__": true, 
-                                                                                                                                                    "items": [
-                                                                                                                                                        "INTEGER", 
-                                                                                                                                                        "\u6cd5\u672f\u7a7f\u900f_2"
-                                                                                                                                                    ]
-                                                                                                                                                }
+                                                                                                                                                [
+                                                                                                                                                    "INTEGER", 
+                                                                                                                                                    "\u6cd5\u672f\u7a7f\u900f"
+                                                                                                                                                ]
                                                                                                                                             ], 
                                                                                                                                             "sub_type": 6
                                                                                                                                         }
