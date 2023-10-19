@@ -273,14 +273,14 @@
                         "pos": {
                             "__tuple__": true, 
                             "items": [
-                                88.73355102539062, 
+                                88.73358154296875, 
                                 77.40008544921875
                             ]
                         }, 
                         "pos_percent": {
                             "__tuple__": true, 
                             "items": [
-                                12.324104309082031, 
+                                12.324108547634548, 
                                 50.92110884817023
                             ]
                         }, 
@@ -296,19 +296,19 @@
                     {
                         "children": [], 
                         "event_list": [], 
-                        "image": 100494, 
+                        "image": 107868, 
                         "name": "\u56fe\u6807", 
                         "pos": {
                             "__tuple__": true, 
                             "items": [
-                                88.73355102539062, 
+                                88.73358154296875, 
                                 77.39990234375
                             ]
                         }, 
                         "pos_percent": {
                             "__tuple__": true, 
                             "items": [
-                                12.324104309082031, 
+                                12.324108547634548, 
                                 50.92098838404605
                             ]
                         }, 
@@ -329,14 +329,14 @@
                         "pos": {
                             "__tuple__": true, 
                             "items": [
-                                88.73355102539062, 
+                                88.73358154296875, 
                                 77.40008544921875
                             ]
                         }, 
                         "pos_percent": {
                             "__tuple__": true, 
                             "items": [
-                                12.324104309082031, 
+                                12.324108547634548, 
                                 50.92110884817023
                             ]
                         }, 
@@ -418,7 +418,7 @@
                         "text": {
                             "__tuple__": true, 
                             "items": [
-                                "\uff1f\uff1f\uff1f", 
+                                "\u6b66\u5c06/\u88c5\u5907\u540d\u79f0", 
                                 false
                             ]
                         }, 
@@ -459,7 +459,7 @@
                         "text": {
                             "__tuple__": true, 
                             "items": [
-                                "\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\n", 
+                                "\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341\n\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341\n\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u5341", 
                                 false
                             ]
                         }, 
@@ -504,8 +504,7 @@
                                 false
                             ]
                         }, 
-                        "type": 3, 
-                        "visible": false
+                        "type": 3
                     }
                 ], 
                 "custom_kv": {}, 

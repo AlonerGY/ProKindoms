@@ -1,5 +1,31 @@
 {
     "trigger_dict": {
+        "1019539572": {
+            "action": [
+                {
+                    "action_type": "SOFT_PAUSE_GAME", 
+                    "args_list": [], 
+                    "bp": false, 
+                    "element_id": 1002180723000016, 
+                    "enable": true
+                }, 
+                [
+                    1542145574, 
+                    "\u5f39\u51fa\u5b9d\u7bb1", 
+                    1019539572, 
+                    "action_type"
+                ]
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": "JClkAGckEe6f8zDQQunfyT", 
+            "p_trigger_id": null, 
+            "trigger_id": 1019539572, 
+            "trigger_name": "\u62fe\u53d6\u5b9d\u7bb1", 
+            "valid": true
+        }, 
         "1279692905": {
             "action": [
                 {
@@ -175,74 +201,6 @@
                                     "call_rt_arg_idxes": [], 
                                     "element_id": 1295478857000024, 
                                     "enable": true
-                                }, 
-                                {
-                                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100175, 
-                                            "args_list": [
-                                                3
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100003, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [
-                                                        "\u91ca\u653e\u6280\u80fd"
-                                                    ], 
-                                                    "sub_type": 1
-                                                }, 
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100002, 
-                                                            "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "INTEGER", 
-                                                                        "i", 
-                                                                        "local"
-                                                                    ]
-                                                                }
-                                                            ], 
-                                                            "sub_type": 6
-                                                        }
-                                                    ], 
-                                                    "sub_type": "ANY_VAR_TO_STR"
-                                                }
-                                            ], 
-                                            "op_arg": [
-                                                null, 
-                                                null, 
-                                                null, 
-                                                null, 
-                                                null, 
-                                                null, 
-                                                null, 
-                                                null
-                                            ], 
-                                            "op_arg_enable": [
-                                                false, 
-                                                false, 
-                                                false, 
-                                                false, 
-                                                false, 
-                                                false, 
-                                                false, 
-                                                false
-                                            ], 
-                                            "sub_type": "STR_JOIN"
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 1295478857000032, 
-                                    "enable": false
                                 }
                             ], 
                             "sub_type": 1
@@ -250,22 +208,6 @@
                     ], 
                     "bp": false, 
                     "element_id": 1295478857000015, 
-                    "enable": true
-                }, 
-                {
-                    "action_type": "CALL_TRIGGER_FUNC", 
-                    "args_list": [
-                        {
-                            "arg_type": 100177, 
-                            "args_list": [], 
-                            "op_arg": [], 
-                            "op_arg_enable": [], 
-                            "sub_type": "faf347006d7611ee8ea730d042e9dfc9"
-                        }
-                    ], 
-                    "bp": false, 
-                    "call_rt_arg_idxes": [], 
-                    "element_id": 1295478857000027, 
                     "enable": true
                 }
             ], 
@@ -326,7 +268,7 @@
                     ], 
                     "element_id": 1295478857000002, 
                     "enable": true, 
-                    "event_type": "GAME_ELAPSE_REPEAT"
+                    "event_type": "GAME_ELAPSE_ONCE"
                 }
             ], 
             "group_id": "JClkAGckEe6f8zDQQunfyT", 
@@ -621,6 +563,13 @@
                 "items": [
                     1295478857, 
                     "\u65bd\u653e\u6b66\u5c06\u6280\u80fd"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1019539572, 
+                    "\u62fe\u53d6\u5b9d\u7bb1"
                 ]
             }, 
             {

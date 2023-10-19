@@ -152,7 +152,7 @@
             "p_trigger_id": null, 
             "trigger_id": 165167232, 
             "trigger_name": "\u6682\u505c", 
-            "valid": true
+            "valid": false
         }, 
         "267477127": {
             "action": [
@@ -600,7 +600,7 @@
                                 {
                                     "arg_type": 100000, 
                                     "args_list": [
-                                        -17000.0
+                                        600.0
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -848,7 +848,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2145550465, 
             "trigger_name": "\u6062\u590d\u6682\u505c", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": {

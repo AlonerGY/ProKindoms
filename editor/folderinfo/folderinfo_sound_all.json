@@ -17,42 +17,6 @@
     "AFbQLmwQEe6RtDDQQuhSCE", 
     "\u9ec4\u5dfe\u4e4b\u4e71(0)"
    ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647", 
-    1, 
-    "w6Y78G4pEe68cjDQQunfyZ", 
-    "\u6b66\u5c06\u6280\u80fd"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/w6Y78G4pEe68cjDQQunfyZ", 
-    0, 
-    "w6ZjAG4pEe6EtTDQQunfyR", 
-    "\u8bf8\u845b\u4eae"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/w6Y78G4pEe68cjDQQunfyZ", 
-    1, 
-    "K+YCQG4qEe62dDDQQunfyQ", 
-    "\u66f9\u64cd"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/w6Y78G4pEe68cjDQQunfyZ", 
-    2, 
-    "K+ZQYW4qEe6IKTDQQunfyY", 
-    "\u90ed\u5609"
-   ]
   }
  ], 
  "d": {
@@ -60,34 +24,6 @@
    "__tuple__": true, 
    "items": [
     "AFbQLmwQEe6RtDDQQuhSCE", 
-    0
-   ]
-  }, 
-  "134270973": {
-   "__tuple__": true, 
-   "items": [
-    "w6ZjAG4pEe6EtTDQQunfyR", 
-    0
-   ]
-  }, 
-  "134250899": {
-   "__tuple__": true, 
-   "items": [
-    "w6ZjAG4pEe6EtTDQQunfyR", 
-    1
-   ]
-  }, 
-  "134233580": {
-   "__tuple__": true, 
-   "items": [
-    "K+YCQG4qEe62dDDQQunfyQ", 
-    0
-   ]
-  }, 
-  "134227782": {
-   "__tuple__": true, 
-   "items": [
-    "K+ZQYW4qEe6IKTDQQunfyY", 
     0
    ]
   }

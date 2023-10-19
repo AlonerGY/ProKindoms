@@ -405,6 +405,64 @@
             "name": "\u8840\u8ff9", 
             "type": 64, 
             "unit_id": 22
+        }, 
+        "28": {
+            "components": {
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        5.0, 
+                        5.0, 
+                        5.0
+                    ]
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -20, 
+                                4203266048
+                            ], 
+                            [
+                                0, 
+                                2908551936
+                            ], 
+                            [
+                                -179, 
+                                2417295360
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134268519, 
+            "name": "\u706b", 
+            "type": 64, 
+            "unit_id": 28
         }
     }
 }
